@@ -1,0 +1,10 @@
+{
+  "id": "realm-01-cave-open",
+  "realmId": 1,
+  "kind": "intro",
+  "beats": [
+    { "text": "Cold comes up through the stone before the light does.", "tone": "tense" },
+    { "text": "You wake with your cheek against grit and a bright seam of it ahead, east, where the cave narrows.", "tone": "neutral" },
+    { "text": "Something out there is already moving.", "tone": "tense" }
+  ]
+}
