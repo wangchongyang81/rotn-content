@@ -1,0 +1,23 @@
+{
+  "id": "realm-05-pledge-of-earth",
+  "realmId": 5,
+  "name": "The Pledge of Earth",
+  "description": "A cut bank of raw clay, worked and reworked until the face of it is a wall of hands. The pledge was made here and the ground has kept the shape of it. Everything is the same red-brown, including the air.",
+  "pois": [
+    {
+      "id": "hand-wall",
+      "label": "Wall of hands",
+      "text": "Pressed palms, thousands, in rows that overlap and go up out of reach. The lowest are small. The highest are not."
+    },
+    {
+      "id": "pledge-stone",
+      "label": "Pledge stone",
+      "text": "Set into the clay and not cut from it. The letters are shallow and filled with the same clay, so you read them with your fingers before your eyes."
+    },
+    {
+      "id": "clay-pit",
+      "label": "Clay pit",
+      "text": "Where the bank was dug. Water has come in and gone grey. A shape sits under it at the depth where you stop being able to tell shape from shadow."
+    }
+  ]
+}

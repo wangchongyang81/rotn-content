@@ -1,0 +1,23 @@
+{
+  "id": "realm-06-dhruva",
+  "realmId": 6,
+  "name": "Dhruva",
+  "description": "A town built around one fixed point and oriented to it, every street a spoke. The point is a pillar, and the town has grown outward from it in rings so regular that the regularity reads as fear.",
+  "pois": [
+    {
+      "id": "fixed-pillar",
+      "label": "The fixed pillar",
+      "text": "Square, unmarked, taller than the roofs around it. It does not sway in wind. Set into its base is a ring of iron, and the iron is worn bright on the inside."
+    },
+    {
+      "id": "ring-street",
+      "label": "First ring street",
+      "text": "The houses here face the pillar and not each other. Doors are cut to line up with it. Walk the ring and every doorway points the same way."
+    },
+    {
+      "id": "surveyor-house",
+      "label": "Surveyor's house",
+      "text": "The only building that faces out. Inside, cord and plumb weights are hung and still. A chart on the table has the pillar at the centre and one arm drawn longer than the rest."
+    }
+  ]
+}

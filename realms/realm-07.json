@@ -1,0 +1,23 @@
+{
+  "id": "realm-07-chanda",
+  "realmId": 7,
+  "name": "Chanda",
+  "description": "A market that has outlived its own reason. Stalls stand in rows with their awnings up and nothing under them worth the space. The trade here is done mostly in what people remember owing.",
+  "pois": [
+    {
+      "id": "empty-stalls",
+      "label": "Row of empty stalls",
+      "text": "Awnings taut, weights still on the scales, and no goods. The weights are the only things left and they are all slightly wrong."
+    },
+    {
+      "id": "debt-board",
+      "label": "Debt board",
+      "text": "Names and figures in chalk, gone soft at the edges. Somebody has been coming back to keep it current. The most recent entry is not a name you know and the figure is larger than the rest."
+    },
+    {
+      "id": "moneylender-step",
+      "label": "Moneylender's step",
+      "text": "A single step worn into a dish. Sitting here is how you waited. The dish is deep enough now that a shorter person would have their knees above their chest."
+    }
+  ]
+}

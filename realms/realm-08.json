@@ -1,0 +1,23 @@
+{
+  "id": "realm-08-nila",
+  "realmId": 8,
+  "name": "Nila",
+  "description": "Water the colour of ink, held in terraces that were cut by hand and have not been repaired since. Each terrace spills into the one below in a thin sheet. The sound is constant and it stops being sound after a while.",
+  "pois": [
+    {
+      "id": "top-terrace",
+      "label": "Top terrace",
+      "text": "The highest and the stillest. You can see the whole run of the terraces from here, and the thin sheets of water going over each lip, and how far down it goes."
+    },
+    {
+      "id": "breach",
+      "label": "Breach in the wall",
+      "text": "A gap where the wall gave and was never mended. Water goes through it into dry ground instead of down the terrace. The dry ground has started to green."
+    },
+    {
+      "id": "drowned-steps",
+      "label": "Drowned steps",
+      "text": "Steps cut down into the lowest terrace, four visible and the rest under. Something pale sits on the third and does not move when the water does."
+    }
+  ]
+}

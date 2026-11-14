@@ -1,0 +1,23 @@
+{
+  "id": "realm-04-roots-and-rot",
+  "realmId": 4,
+  "name": "Roots and Rot",
+  "description": "Trees have come up through a street that was paved once. The roots lift the slabs into ridges you have to step over, and the rot underneath smells sweet before it smells bad. The paving continues past where anyone would have built.",
+  "pois": [
+    {
+      "id": "split-slab",
+      "label": "Split slab",
+      "text": "A root has gone through the stone and lifted both halves. In the gap, wedged and half grown over, is a coin and a knuckle of bone."
+    },
+    {
+      "id": "hollow-trunk",
+      "label": "Hollow trunk",
+      "text": "The trunk is wide enough to stand in and warm inside, the way a body has been here recently. The bark is stripped at shoulder height, in one long curl."
+    },
+    {
+      "id": "rot-pool",
+      "label": "Pool of rot",
+      "text": "Black water sitting in a dip in the paving. Things fall in and do not come out. Something in it turns over slowly and does not break the surface."
+    }
+  ]
+}

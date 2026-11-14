@@ -1,0 +1,23 @@
+{
+  "id": "realm-03-mitali",
+  "realmId": 3,
+  "name": "Mitali",
+  "description": "A settlement that has made its peace with being passed through. The well is clean, the fences are good, and nobody asks where you are going. Doors here are open and the rooms behind them are quiet.",
+  "pois": [
+    {
+      "id": "common-well",
+      "label": "Common well",
+      "text": "Rope, bucket, a stone lip worn to a shine. Someone has scratched a date into the coping and then scratched it out again, harder."
+    },
+    {
+      "id": "shuttered-house",
+      "label": "Shuttered house",
+      "text": "Boards across the door, but the shutters are open and the inside is tidy. Whoever left meant to come back and did not."
+    },
+    {
+      "id": "boundary-stone",
+      "label": "Boundary stone",
+      "text": "The stone marks the edge of the settlement and has been turned to face inward. Mitali keeps its back to the road."
+    }
+  ]
+}
