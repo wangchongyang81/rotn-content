@@ -1,0 +1,23 @@
+{
+  "id": "realm-01-dhara-cave",
+  "realmId": 1,
+  "name": "Dhara Cave",
+  "description": "A seam of daylight runs east along a wall that sweats. The floor is grit and old ash. Nothing here has been swept in a long time, and the things that live here have stopped expecting visitors.",
+  "pois": [
+    {
+      "id": "cave-mouth",
+      "label": "Cave mouth",
+      "text": "The light widens as you near it. Beyond, grass moves in a wind you cannot feel yet, and something pale is standing very still in it."
+    },
+    {
+      "id": "ash-ring",
+      "label": "Ring of ash",
+      "text": "Someone built a fire here and left before it died. The ash holds a print the size of your hand, and a second one that is not the same shape."
+    },
+    {
+      "id": "scratched-wall",
+      "label": "Scratched wall",
+      "text": "Tallies cut into the stone, four and then a fifth across. They stop at thirty-one. The last cut is deeper than the rest."
+    }
+  ]
+}

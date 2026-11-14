@@ -1,0 +1,23 @@
+{
+  "id": "realm-02-canyon-road",
+  "realmId": 2,
+  "name": "Canyon Road",
+  "description": "The road cuts between walls the colour of dried blood and gets narrower as it goes. Cart tracks run one way only. Whatever pulls the carts does not come back down this road.",
+  "pois": [
+    {
+      "id": "broken-cart",
+      "label": "Broken cart",
+      "text": "One wheel split and the load went over. Sacks of something mealy, split open and picked through. The picking was not done by birds."
+    },
+    {
+      "id": "shrine-niche",
+      "label": "Shrine niche",
+      "text": "A hollow cut for a god and left empty. Coins sit in the dust at its lip, none of them recent, and the dust around them has been smoothed flat by hands."
+    },
+    {
+      "id": "watch-post",
+      "label": "Watch post",
+      "text": "A ledge above the road with a good line down it. Someone keeps this one. The blanket is folded, and there is still warmth in the stone."
+    }
+  ]
+}
