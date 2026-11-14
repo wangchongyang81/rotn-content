@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -u
+bad=""
+for f in $(git diff --cached --name-only); do
+  case "$f" in
+    schema/*|scenes/*|realms/*|quests/*|README.md|.githooks/*|.gitignore) ;;
+    *) bad="$bad $f" ;;
+  esac
+done
+[ -z "$bad" ] || { echo "rotn-content is the venice lane; unexpected path:$bad"; exit 1; }
