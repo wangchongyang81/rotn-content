@@ -1,0 +1,23 @@
+{
+  "id": "realm-12-rahu-s-maw",
+  "realmId": 12,
+  "name": "Rahu's Maw",
+  "description": "A gorge that narrows to a throat and then stops being a gorge. The walls lean until they nearly meet, and the light comes down in one crooked column. Everything inside is heard twice: once from where it is, and once back off the throat.",
+  "pois": [
+    {
+      "id": "the-throat",
+      "label": "The throat",
+      "text": "Narrow enough that the walls would touch your shoulders on both sides at once. Cold comes out of it steadily. The sound of your own breathing returns from it late and slightly wrong."
+    },
+    {
+      "id": "scoured-floor",
+      "label": "Scoured floor",
+      "text": "The floor is polished by water that is not here now. Grooves follow the throat's direction and cut deeper toward it, all of them pointing the same way."
+    },
+    {
+      "id": "wall-lip",
+      "label": "Overhanging lip",
+      "text": "The near wall leans out above you and holds a line of pale streaks where water used to come down. Behind the streaks, pressed flat, is the shape of something that climbed and did not finish."
+    }
+  ]
+}

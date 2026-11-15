@@ -1,0 +1,23 @@
+{
+  "id": "realm-14-cut-nectar",
+  "realmId": 14,
+  "name": "Cut Nectar",
+  "description": "Groves that have been tapped rather than felled. Every trunk carries a scored V and a cup beneath it, and the cups are all full. The cuts are old and healed over at the edges, so the trees have been bleeding on purpose for a long time.",
+  "pois": [
+    {
+      "id": "scored-trunk",
+      "label": "Scored trunk",
+      "text": "The V is cut clean and the wood inside it is pale and wet. Sap runs to the point of the V and stops there, held by surface tension, and does not fall until the cup is touched."
+    },
+    {
+      "id": "full-cups",
+      "label": "Row of full cups",
+      "text": "Clay, set level, filled to the same height exactly. Nothing has spilled and nothing has been collected. A thin skin has formed on every one of them."
+    },
+    {
+      "id": "tapping-knife",
+      "label": "Tapping knife",
+      "text": "Left in a trunk at the height of the last cut, blade in the wood. The handle is wrapped in cloth gone hard. The blade has not rusted, which the damp should have done."
+    }
+  ]
+}

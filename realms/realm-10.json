@@ -1,0 +1,23 @@
+{
+  "id": "realm-10-pledge-of-the-pole",
+  "realmId": 10,
+  "name": "The Pledge of the Pole",
+  "description": "The counterpart to the pledge of earth, and colder. A shaft of pale wood stands in a socket of stone, guyed in four directions, and the ground around it is swept bare in a circle wider than the shaft is tall.",
+  "pois": [
+    {
+      "id": "guy-ropes",
+      "label": "Guy ropes",
+      "text": "Four ropes, four anchors, all taut. The rope nearest the wind is frayed almost through and has been re-knotted twice at the same place by different hands."
+    },
+    {
+      "id": "swept-circle",
+      "label": "Swept circle",
+      "text": "Bare ground with a clean edge. Outside it, grass. The sweeping is recent and the broom is leaning where it was left, bristles down."
+    },
+    {
+      "id": "socket-stone",
+      "label": "Socket stone",
+      "text": "Cut to take the shaft and cut deep. The rim is chipped in one place, and the chip sits in the grass a hand's width away, as though the stone was struck from inside."
+    }
+  ]
+}

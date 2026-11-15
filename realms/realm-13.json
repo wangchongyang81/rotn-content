@@ -1,0 +1,23 @@
+{
+  "id": "realm-13-chandini",
+  "realmId": 13,
+  "name": "Chandini",
+  "description": "A courtyard town built for evenings, with lamps set into the walls at shoulder height on brackets and mirrors behind half of them. In daylight it reads as unfinished. The mirrors face each other across the lanes and there is never only one of anything.",
+  "pois": [
+    {
+      "id": "lamp-bracket",
+      "label": "Lamp bracket",
+      "text": "Empty, and the soot above it says it was not. The bracket is worn bright where a hand has lifted the lamp down and set it back, night after night, for years."
+    },
+    {
+      "id": "facing-mirrors",
+      "label": "Facing mirrors",
+      "text": "Two, across a lane narrower than a room. Stand between them and the reflections go back further than the lane does, and the furthest ones are lit when this one is not."
+    },
+    {
+      "id": "evening-well",
+      "label": "Evening well",
+      "text": "A well with a hood against the weather and a bench beside it, worn in two places. Water below, and the sound of it is close, as though the shaft is wider under the ground than over it."
+    }
+  ]
+}

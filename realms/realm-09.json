@@ -1,0 +1,23 @@
+{
+  "id": "realm-09-wandering-star",
+  "realmId": 9,
+  "name": "The Wandering Star",
+  "description": "Open ground under a sky that has one wrong light in it. The light moves between dusk and dark, and everything here is arranged around the assumption that it will. Stones are set in rings, all of them open on the side the light currently is.",
+  "pois": [
+    {
+      "id": "open-rings",
+      "label": "Open rings of stone",
+      "text": "Every ring has a gap, and every gap points the same way. Walk the field and the gaps turn with you, which means they were cut, not stacked."
+    },
+    {
+      "id": "sighting-post",
+      "label": "Sighting post",
+      "text": "A post with a notch cut at eye height and a groove worn under it where a cheek has rested. Behind it the ground is packed flat by feet that stood a long time."
+    },
+    {
+      "id": "cold-fire",
+      "label": "Cold fire pit",
+      "text": "Ash, laid in a spiral rather than a heap. Nothing has burned here recently, but the spiral is undisturbed, and the ash is the wrong colour for wood."
+    }
+  ]
+}

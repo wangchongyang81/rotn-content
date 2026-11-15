@@ -1,0 +1,23 @@
+{
+  "id": "realm-11-soma",
+  "realmId": 11,
+  "name": "Soma",
+  "description": "Terracing again, but for vines rather than water, and the vines have gone feral over everything. Pressing floors are cut into the rock in stepped rows, each with its channel and its lip. The smell is sweet and slightly wrong, like fruit going over.",
+  "pois": [
+    {
+      "id": "pressing-floor",
+      "label": "Pressing floor",
+      "text": "Cut flat and dished, with a runnel to a sunken jar. The stone is stained purple to the depth of a thumb. Someone has pressed here since the vines went wild."
+    },
+    {
+      "id": "feral-vines",
+      "label": "Feral vines",
+      "text": "They have taken the trellis down and gone along the ground instead. Under them the shapes of things are still there — a bench, a gate, a person-sized gap that has not closed."
+    },
+    {
+      "id": "sealed-jar",
+      "label": "Sealed jar",
+      "text": "Sunken to the shoulder and sealed with clay. The clay is cracked. Put your ear to the crack and it is working, faintly, like something fermenting that was not asked to."
+    }
+  ]
+}
