@@ -1,0 +1,23 @@
+{
+  "id": "realm-16-ahas",
+  "realmId": 16,
+  "name": "Ahas",
+  "description": "The first of a matched pair, and the lower of the two. A tight bowl of a place, walled to the height of a chest, with everything inside built small. Doors here are cut short and the steps are shallow. You feel oversized without being looked at.",
+  "pois": [
+    {
+      "id": "low-door",
+      "label": "Low door",
+      "text": "Cut to below the lintel line, so anyone using it stoops. The threshold is hollowed in the middle by feet that always landed in the same place."
+    },
+    {
+      "id": "shallow-steps",
+      "label": "Shallow steps",
+      "text": "Four risers where two would do. Each tread is barely deep enough for the ball of a foot, and the edges are not worn, which means nobody has hurried here."
+    },
+    {
+      "id": "chest-wall",
+      "label": "Chest-high wall",
+      "text": "You can rest your forearms on it and see over. On the outside the wall is finished. On the inside it is rough and has never been pointed."
+    }
+  ]
+}

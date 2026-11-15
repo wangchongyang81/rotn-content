@@ -1,0 +1,23 @@
+{
+  "id": "realm-19-the-one-shadow",
+  "realmId": 19,
+  "name": "The One Shadow",
+  "description": "Flat ground with one thing on it that casts. The thing is a post, and the shadow it throws is longer and wider than the post has any right to. Everything else here has been placed to stay out of the shadow, and the shadow has moved since.",
+  "pois": [
+    {
+      "id": "the-post",
+      "label": "The post",
+      "text": "Bare, waist-high, no notch and no fitting. It is warm on the shadowed side and cold on the lit one, which is the wrong way round."
+    },
+    {
+      "id": "shadow-edge",
+      "label": "Edge of the shadow",
+      "text": "The ground inside is bare and the ground outside is not. Along the edge are the marks of things that were dragged clear and left where they stopped."
+    },
+    {
+      "id": "cleared-ground",
+      "label": "Cleared ground",
+      "text": "Stones, tools, a cart with its shafts down, all of them out at the margin and all of them oriented the same way. Nothing was taken away, only moved."
+    }
+  ]
+}

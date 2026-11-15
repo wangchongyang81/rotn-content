@@ -1,0 +1,23 @@
+{
+  "id": "realm-20-pledge-of-day",
+  "realmId": 20,
+  "name": "The Pledge of Day",
+  "description": "The last of the three pledges and the only one kept in full light. The bowl here is dark stone and the ring is not raked but paved, and the paving has been kept. What is promised by day is promised in front of everything.",
+  "pois": [
+    {
+      "id": "dark-bowl",
+      "label": "Dark bowl",
+      "text": "Deeper than the pale one and full to the lip. The water does not move and does not smell. Look into it and the sky is there, but the sky is not the sky overhead."
+    },
+    {
+      "id": "kept-paving",
+      "label": "Kept paving",
+      "text": "Set tight, swept clean, and every slab is whole. One at the ring's edge has been lifted and reset, and the mortar around it is newer than anything else here."
+    },
+    {
+      "id": "day-mark",
+      "label": "Day mark",
+      "text": "The disc cut into the standing stone is warm and dry and unmarked by hands. Under it, scratched small and shallow, is a line of tally cuts going up the stone and over the top."
+    }
+  ]
+}

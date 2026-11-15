@@ -1,0 +1,23 @@
+{
+  "id": "realm-18-diva",
+  "realmId": 18,
+  "name": "Diva",
+  "description": "A place built for looking up. The roofs have been taken off two long buildings and the walls between them knocked through, so it is one open corridor facing the sky. Ladders are set against the inside walls and left in place.",
+  "pois": [
+    {
+      "id": "open-roof",
+      "label": "Open roof",
+      "text": "The beams are still there with nothing on them. At the ends, where the roof was not removed, tiles remain and their edges are clean, as though the rest was lifted rather than torn."
+    },
+    {
+      "id": "inside-ladder",
+      "label": "Ladder against the wall",
+      "text": "Fixed, not leaning, and it goes up past the wall head into open air. The rungs are worn on the top face only, so it was climbed by people looking up rather than down."
+    },
+    {
+      "id": "knocked-wall",
+      "label": "Broken-through wall",
+      "text": "The opening is ragged and the rubble has been cleared to the sides and stacked. On the far side of it, the same corridor continues, with the same ladders, in the same places."
+    }
+  ]
+}

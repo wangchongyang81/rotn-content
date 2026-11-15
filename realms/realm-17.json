@@ -1,0 +1,23 @@
+{
+  "id": "realm-17-andhas",
+  "realmId": 17,
+  "name": "Andhas",
+  "description": "Ahas again, but raised, and the proportions are the mirror of the one below. Walls to the shoulder, doors cut tall, steps deep. Where Ahas makes you oversized, Andhas makes you small in a way that has been arranged on purpose.",
+  "pois": [
+    {
+      "id": "tall-door",
+      "label": "Tall door",
+      "text": "The lintel is a head above you and the threshold is a flat bar of stone, unmarked. Nothing has landed on it often enough to wear it."
+    },
+    {
+      "id": "deep-steps",
+      "label": "Deep steps",
+      "text": "Two risers where four would fit, each tread long enough to stand on fully. Made for a stride that is not yours."
+    },
+    {
+      "id": "shoulder-wall",
+      "label": "Shoulder-high wall",
+      "text": "Too high to see over without standing back, and the coping is set with small stones that face inward. From the inside they would read as a warning."
+    }
+  ]
+}

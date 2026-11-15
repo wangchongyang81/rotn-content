@@ -1,0 +1,23 @@
+{
+  "id": "realm-15-pledge-of-the-moon",
+  "realmId": 15,
+  "name": "The Pledge of the Moon",
+  "description": "The third pledge, and the one kept at night. A shallow bowl of pale stone sits in a ring of flat ground, and the ring is raked, and the raking is fresh. Whatever is promised here is promised by moonlight and checked by it.",
+  "pois": [
+    {
+      "id": "pale-bowl",
+      "label": "Pale bowl",
+      "text": "Shallow, wider than two arms, and dry. The inside is marked in concentric rings that do not line up with the bowl's shape. Filled, it would hold a depth of about a hand."
+    },
+    {
+      "id": "raked-ring",
+      "label": "Raked ring",
+      "text": "Lines in the ground running out from the bowl in every direction, all of them ending at the same distance. The rake is leaning against a stone at the edge, tines down."
+    },
+    {
+      "id": "moon-mark",
+      "label": "Moon mark",
+      "text": "A disc cut into a standing stone at the ring's edge, worn smooth in the centre. Someone has been pressing a palm to it and the smoothness is palm-shaped."
+    }
+  ]
+}
