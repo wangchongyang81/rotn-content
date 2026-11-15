@@ -1,0 +1,21 @@
+{
+  "id": "realm-04-slab-squatter",
+  "realmId": 4,
+  "kind": "encounter",
+  "npc": "slab-squatter",
+  "beats": [
+    {
+      "text": "Someone is sitting on the split slab with their back to a root, eating.",
+      "tone": "neutral"
+    },
+    {
+      "text": "\"Mind the gap. It's had two of my knives.\"",
+      "speaker": "Squatter",
+      "tone": "wry"
+    },
+    {
+      "text": "They shift over without being asked, which is not the same as making room.",
+      "tone": "neutral"
+    }
+  ]
+}

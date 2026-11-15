@@ -1,0 +1,21 @@
+{
+  "id": "realm-02-roadside-halt",
+  "realmId": 2,
+  "kind": "encounter",
+  "npc": "cart-woman",
+  "beats": [
+    {
+      "text": "Someone is standing in the road ahead with a hand up. Not waving. Held.",
+      "tone": "tense"
+    },
+    {
+      "text": "\"You're the one from the cave.\"",
+      "speaker": "Cart-woman",
+      "tone": "cold"
+    },
+    {
+      "text": "She does not move aside, and she does not say how she knows.",
+      "tone": "neutral"
+    }
+  ]
+}

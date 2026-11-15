@@ -1,0 +1,21 @@
+{
+  "id": "realm-03-well-offer",
+  "realmId": 3,
+  "kind": "encounter",
+  "npc": "well-keeper",
+  "beats": [
+    {
+      "text": "An old woman is drawing water and sets the bucket down when she sees you.",
+      "tone": "neutral"
+    },
+    {
+      "text": "\"Sit. You've the look of somebody who's walked.\"",
+      "speaker": "Well-keeper",
+      "tone": "warm"
+    },
+    {
+      "text": "She fills a cup without asking and puts it in your hand.",
+      "tone": "warm"
+    }
+  ]
+}
