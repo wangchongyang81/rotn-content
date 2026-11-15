@@ -1,0 +1,23 @@
+{
+  "id": "realm-34-stolen-songs",
+  "realmId": 34,
+  "name": "Stolen Songs",
+  "description": "The end of the road, and it is a room. Four walls, a floor, and a roof with a hole in it, and every surface is written on. Not carved: written, in a hand that changed many times and never once got larger or smaller. What is written here was taken from somewhere else and kept.",
+  "pois": [
+    {
+      "id": "written-walls",
+      "label": "Written walls",
+      "text": "Covered from the floor to as high as a person can reach standing, and then further, in lines that run level and tight. Several hands, one size. The ink is brown and has sunk into the stone."
+    },
+    {
+      "id": "the-hole",
+      "label": "Hole in the roof",
+      "text": "A clean square, cut rather than fallen through. The light lands in a square on the floor and the floor inside that square is the only unwritten part of the room."
+    },
+    {
+      "id": "last-line",
+      "label": "The last line",
+      "text": "At the end of the final wall, at the height of a seated person's hand, the writing stops mid-line. The last word is unfinished and the stroke runs off the edge of the stone into the air."
+    }
+  ]
+}

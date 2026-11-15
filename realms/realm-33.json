@@ -1,0 +1,23 @@
+{
+  "id": "realm-33-ushasvi",
+  "realmId": 33,
+  "name": "Ushasvi",
+  "description": "The last of the dawn ground and higher than Pratyusha, close enough to the sky that the light arrives before the warmth does. Nothing is built here; the ridge is bare and the bareness has been kept. It is a place for being early.",
+  "pois": [
+    {
+      "id": "bare-ridge",
+      "label": "Bare ridge",
+      "text": "Stone and short turf, and both scoured. No seat has been cut and no notch has been set, and yet the crest is worn along its whole length by feet that came up and went back down."
+    },
+    {
+      "id": "light-before-warmth",
+      "label": "Light before warmth",
+      "text": "Stand on the crest and the light is full on you and the air is still cold enough to ache. The warmth comes a long while after and never quite arrives."
+    },
+    {
+      "id": "downslope",
+      "label": "The downslope",
+      "text": "The far side falls away further than it should and the bottom of it is not visible from the crest. Whatever is down there is lower than the ridge has any business being."
+    }
+  ]
+}
