@@ -1,0 +1,21 @@
+{
+  "id": "realm-07-the-board-keeper",
+  "realmId": 7,
+  "kind": "encounter",
+  "npc": "board-keeper",
+  "beats": [
+    {
+      "text": "A man is chalking on the debt board. He is short enough that the last entries are above his reach and he has to stretch.",
+      "tone": "neutral"
+    },
+    {
+      "text": "\"You're not on here. Yet.\"",
+      "speaker": "Board-keeper",
+      "tone": "wry"
+    },
+    {
+      "text": "He steps back and reads the board the way you would read a road sign.",
+      "tone": "neutral"
+    }
+  ]
+}

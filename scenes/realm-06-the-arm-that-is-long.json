@@ -1,0 +1,21 @@
+{
+  "id": "realm-06-the-arm-that-is-long",
+  "realmId": 6,
+  "kind": "encounter",
+  "npc": "surveyor",
+  "beats": [
+    {
+      "text": "A woman comes out of the surveyor's house with a plumb line and does not stop walking when she sees you.",
+      "tone": "neutral"
+    },
+    {
+      "text": "\"You're standing on the long arm.\"",
+      "speaker": "Surveyor",
+      "tone": "wry"
+    },
+    {
+      "text": "She sets the plumb against the pillar and it hangs still, and she writes without looking down.",
+      "tone": "neutral"
+    }
+  ]
+}

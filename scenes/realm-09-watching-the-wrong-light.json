@@ -1,0 +1,21 @@
+{
+  "id": "realm-09-watching-the-wrong-light",
+  "realmId": 9,
+  "kind": "encounter",
+  "npc": "watcher",
+  "beats": [
+    {
+      "text": "Someone has their cheek in the notch of the sighting post, tracking the wrong light.",
+      "tone": "neutral"
+    },
+    {
+      "text": "\"It's early tonight. That's four nights early.\"",
+      "speaker": "Watcher",
+      "tone": "tense"
+    },
+    {
+      "text": "They step back and let you look, and the light has moved while you were talking.",
+      "tone": "tense"
+    }
+  ]
+}

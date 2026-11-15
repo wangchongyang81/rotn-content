@@ -1,0 +1,21 @@
+{
+  "id": "realm-10-the-frayed-rope",
+  "realmId": 10,
+  "kind": "encounter",
+  "npc": "rope-mender",
+  "beats": [
+    {
+      "text": "A man is on the frayed guy rope with a knife and a coil of new cord, and he has not cut the old knot out.",
+      "tone": "neutral"
+    },
+    {
+      "text": "\"Third time. If it goes again it goes.\"",
+      "speaker": "Rope-mender",
+      "tone": "wry"
+    },
+    {
+      "text": "He ties over the fray rather than through it, and pulls it tight with his foot on the anchor.",
+      "tone": "neutral"
+    }
+  ]
+}

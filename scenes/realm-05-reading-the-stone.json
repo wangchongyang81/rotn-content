@@ -1,0 +1,21 @@
+{
+  "id": "realm-05-reading-the-stone",
+  "realmId": 5,
+  "kind": "encounter",
+  "npc": "pledge-reader",
+  "beats": [
+    {
+      "text": "Someone is standing at the pledge stone with both hands flat on it, reading.",
+      "tone": "neutral"
+    },
+    {
+      "text": "\"Don't. It's not for reading out loud.\"",
+      "speaker": "Pledge-reader",
+      "tone": "cold"
+    },
+    {
+      "text": "They take their hands off and the letters stay warm under your own.",
+      "tone": "tense"
+    }
+  ]
+}

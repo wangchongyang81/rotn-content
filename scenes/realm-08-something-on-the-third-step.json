@@ -1,0 +1,21 @@
+{
+  "id": "realm-08-something-on-the-third-step",
+  "realmId": 8,
+  "kind": "encounter",
+  "npc": "drowned-thing",
+  "beats": [
+    {
+      "text": "The pale thing on the third step has not moved. Closer, it is a person sitting, knees drawn up, water to the waist.",
+      "tone": "tense"
+    },
+    {
+      "text": "\"You'll want to be quick about the top terrace.\"",
+      "speaker": "Drowned",
+      "tone": "cold"
+    },
+    {
+      "text": "The voice comes from the right place. The mouth does not open.",
+      "tone": "tense"
+    }
+  ]
+}
