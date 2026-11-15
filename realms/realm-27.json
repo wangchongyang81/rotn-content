@@ -1,0 +1,23 @@
+{
+  "id": "realm-27-kravya",
+  "realmId": 27,
+  "name": "Kravya",
+  "description": "Ground that has been fed. There is no building here, only a broad flat of dark soil kept clear, and the clearing is bounded by stakes with the bark stripped. The soil is fine and loose and nothing grows in it at all.",
+  "pois": [
+    {
+      "id": "stripped-stakes",
+      "label": "Stripped stakes",
+      "text": "Bark taken off in long strips and the wood beneath left to grey. Every stake is set at the same lean, away from the clearing, as though pushed out from the middle."
+    },
+    {
+      "id": "loose-soil",
+      "label": "Loose soil",
+      "text": "Fine enough to run through your fingers and dry at the surface. Dig a hand down and it stays dry, and then at the wrist it is suddenly cold and damp and holds together."
+    },
+    {
+      "id": "the-boundary",
+      "label": "The boundary",
+      "text": "Grass stops dead at the stakes, not thinned out but cut off. Beyond it the grass is ordinary and long. Nothing crosses the line in either direction, and there are no tracks."
+    }
+  ]
+}

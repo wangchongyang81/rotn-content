@@ -1,0 +1,23 @@
+{
+  "id": "realm-29-cold-hearths",
+  "realmId": 29,
+  "name": "Cold Hearths",
+  "description": "A settlement of hearths with no houses around them. Each is a ring of stone with a fire pit at the centre, spaced at regular intervals across open ground, and every pit is cold and swept. People lived here and the living has been taken away.",
+  "pois": [
+    {
+      "id": "swept-pit",
+      "label": "Swept fire pit",
+      "text": "Ash gone, stone floor of the pit visible, and swept in a spiral. Sweeping a fire pit is not something anyone does, and every pit here has been swept the same way."
+    },
+    {
+      "id": "even-spacing",
+      "label": "Even spacing",
+      "text": "Walk between two hearths and count it off. Every gap is the same. Whatever set them out worked to a measure and kept to it."
+    },
+    {
+      "id": "cold-ring",
+      "label": "Cold ring",
+      "text": "The stones are cold and dry and there is no soot on the inner faces. Not banked, not raked out, just cold, as if the fire was lifted away whole."
+    }
+  ]
+}

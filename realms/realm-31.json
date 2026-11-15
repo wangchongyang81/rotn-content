@@ -1,0 +1,23 @@
+{
+  "id": "realm-31-pratyusha",
+  "realmId": 31,
+  "name": "Pratyusha",
+  "description": "Dawn ground, and the only place here that is trying to be pleasant. A long low ridge faces the light and the whole near slope is terraced into shallow seats. The seats are grassed over and worn through in the middle of each one.",
+  "pois": [
+    {
+      "id": "grassed-seat",
+      "label": "Grassed seat",
+      "text": "Turf grown over the stone, and a bald patch worn through it exactly where a person would sit. Every seat on the slope has the same bald patch in the same place."
+    },
+    {
+      "id": "ridge-crest",
+      "label": "Ridge crest",
+      "text": "From the top the whole slope is below you and facing away. The far side is dark and has nothing built on it and no seats."
+    },
+    {
+      "id": "first-light-mark",
+      "label": "First-light mark",
+      "text": "A notch cut into the crest stone, shallow and old. Set behind it and sighted through, it lines up with a gap in the far hills that only exists at one hour."
+    }
+  ]
+}

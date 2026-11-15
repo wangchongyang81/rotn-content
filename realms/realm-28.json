@@ -1,0 +1,23 @@
+{
+  "id": "realm-28-jvala",
+  "realmId": 28,
+  "name": "Jvala",
+  "description": "A slope of cracked stone that gives off heat in the seams. The cracks run downhill in long parallel splits and the stone between them is hot enough to feel through a boot. Air rises off it in a way that bends the far edge.",
+  "pois": [
+    {
+      "id": "hot-seam",
+      "label": "Hot seam",
+      "text": "A hand's width of open crack with the sides gone orange-grey. Hold a palm over it and the hair on your arm lifts and curls. Nothing burns, and nothing is burning."
+    },
+    {
+      "id": "bent-air",
+      "label": "Bent air",
+      "text": "The far edge of the slope shivers and will not settle. Shapes beyond it are the right shapes, displaced, so a post looks like a post that has been nudged sideways."
+    },
+    {
+      "id": "cool-stone",
+      "label": "Cool stone",
+      "text": "One slab, set among the hot ones, that is cold and stays cold. The cracks stop at its edges rather than crossing it, and the stopping is abrupt on every side."
+    }
+  ]
+}

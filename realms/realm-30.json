@@ -1,0 +1,23 @@
+{
+  "id": "realm-30-pledge-of-flame",
+  "realmId": 30,
+  "name": "The Pledge of Flame",
+  "description": "The last pledge and the only one that is still burning. A low stone throat stands open at the centre of a scorched apron, and the fire in it has been kept fed for long enough that the stone has gone white. Everything within the apron has been cleared to a distance.",
+  "pois": [
+    {
+      "id": "white-throat",
+      "label": "The white throat",
+      "text": "Stone gone chalk-white and crazed all over from heat. The fire inside is small and steady and does not roar, and the white does not stop at the apron's edge, it stops at a line well short of it."
+    },
+    {
+      "id": "scorched-apron",
+      "label": "Scorched apron",
+      "text": "Black ground, and rings of less-black further out where the heat has fallen away. The rings are evenly spaced, which means the fire has been this size for a long time."
+    },
+    {
+      "id": "fuel-stack",
+      "label": "Fuel stack",
+      "text": "Cut wood, stacked and covered, and the stack is tall. It has been drawn on from the near side, and the near side is down to the last few courses."
+    }
+  ]
+}

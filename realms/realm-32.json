@@ -1,0 +1,23 @@
+{
+  "id": "realm-32-avyakta",
+  "realmId": 32,
+  "name": "Avyakta",
+  "description": "A place that will not resolve. Shapes hold for a moment and then read as something else — a wall becomes a row of posts, a post becomes a person standing, and settles again when you stop looking. The ground underfoot is the only thing that stays the same.",
+  "pois": [
+    {
+      "id": "unsettled-shapes",
+      "label": "Unsettled shapes",
+      "text": "Look straight at one and it is a stack of cut stone. Look slightly off it and it is a stooped figure. Whichever it is, it is the same height."
+    },
+    {
+      "id": "steady-ground",
+      "label": "Steady ground",
+      "text": "Flat, firm, and identical in every direction. No tracks hold in it and no shadow falls on it, and it is the only thing here you can be sure of."
+    },
+    {
+      "id": "the-second-look",
+      "label": "The second look",
+      "text": "Turn away and turn back and the arrangement has changed. Not much. Enough that the gap you walked through is a stone's width narrower than it was."
+    }
+  ]
+}
