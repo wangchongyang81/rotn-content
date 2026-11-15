@@ -1,0 +1,19 @@
+{
+  "id": "realm-16-ducking-the-low-doors",
+  "realmId": 16,
+  "kind": "intro",
+  "beats": [
+    {
+      "text": "The wall stops at your chest, so the whole place is laid out in front of you and none of it is your size.",
+      "tone": "tense"
+    },
+    {
+      "text": "Doors are cut short in the walls and the steps are shallow, worn into dishes at the middle of every tread.",
+      "tone": "neutral"
+    },
+    {
+      "text": "You duck for a door that is already behind you.",
+      "tone": "wry"
+    }
+  ]
+}

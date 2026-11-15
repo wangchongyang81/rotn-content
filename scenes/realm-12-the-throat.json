@@ -1,0 +1,20 @@
+{
+  "id": "realm-12-the-throat",
+  "realmId": 12,
+  "kind": "encounter",
+  "npc": "the-twice-heard",
+  "beats": [
+    {
+      "text": "The gorge narrows until the walls lean past the light, and the light comes down the gap in one crooked column.",
+      "tone": "neutral"
+    },
+    {
+      "text": "You say something to hear it. It comes back off the throat a half-beat late, and it is not quite what you said.",
+      "tone": "tense"
+    },
+    {
+      "text": "The floor ahead is scoured pale in a channel, and the lip above overhangs it like a lid set on a pot.",
+      "tone": "neutral"
+    }
+  ]
+}

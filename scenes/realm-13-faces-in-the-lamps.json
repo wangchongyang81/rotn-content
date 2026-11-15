@@ -1,0 +1,21 @@
+{
+  "id": "realm-13-faces-in-the-lamps",
+  "realmId": 13,
+  "kind": "encounter",
+  "npc": "lamp-lighter",
+  "beats": [
+    {
+      "text": "Lamps are set into the walls at shoulder height, each on its bracket, and behind half of them a mirror turns the flame back into the lane.",
+      "tone": "neutral"
+    },
+    {
+      "text": "The mirrors face each other. Walk between two of them and you are four people, then six, and none of them keep your step.",
+      "tone": "tense"
+    },
+    {
+      "text": "\"Don't count yourself,\" says the lamp-lighter. \"Nobody gets the same number twice.\"",
+      "tone": "wry",
+      "speaker": "Lamp-lighter"
+    }
+  ]
+}

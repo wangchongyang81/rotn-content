@@ -1,0 +1,21 @@
+{
+  "id": "realm-15-what-is-promised-at-night",
+  "realmId": 15,
+  "kind": "encounter",
+  "npc": "pledge-keeper",
+  "beats": [
+    {
+      "text": "A shallow bowl of pale stone sits in the middle of a raked ring, and the raking is fresh and unbroken to the rim.",
+      "tone": "neutral"
+    },
+    {
+      "text": "A moon is cut into the bowl's lip. The bowl is dry, and it is not the dry of a bowl that was never filled.",
+      "tone": "tense"
+    },
+    {
+      "text": "\"Say it out loud,\" says the keeper. \"The moon is a poor reader.\"",
+      "tone": "wry",
+      "speaker": "Pledge-keeper"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "realm-14-the-full-cups",
+  "realmId": 14,
+  "kind": "intro",
+  "beats": [
+    {
+      "text": "Every trunk carries the same scored V, and under every V a cup, and every cup is full.",
+      "tone": "neutral"
+    },
+    {
+      "text": "The cuts have healed over at the edges. These trees have been bleeding on purpose longer than anyone has been here to drink it.",
+      "tone": "tense"
+    },
+    {
+      "text": "A tapping knife is left in the fork of the nearest trunk, wiped clean on the bark and put back square.",
+      "tone": "neutral"
+    }
+  ]
+}
