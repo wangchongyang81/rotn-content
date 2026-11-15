@@ -1,0 +1,23 @@
+{
+  "id": "realm-25-pledge-of-wind",
+  "realmId": 25,
+  "name": "The Pledge of Wind",
+  "description": "The pledge that is never kept still. There is no bowl and no ring; there are four posts with cloths tied to them, and the cloths are the record. Whatever is promised here is promised into moving air, and it is read off the cloth.",
+  "pois": [
+    {
+      "id": "tied-cloths",
+      "label": "Tied cloths",
+      "text": "Strips knotted to each post at the height of a raised hand. All four are frayed to nothing on the downwind edge and whole on the other, so they face one way and have for a long time."
+    },
+    {
+      "id": "empty-middle",
+      "label": "The empty middle",
+      "text": "Bare ground between the four posts, swept clean and slightly hollowed. The hollowing is wind scallop, not feet, but the middle is where you stand."
+    },
+    {
+      "id": "frayed-knot",
+      "label": "A frayed knot",
+      "text": "One cloth has been re-knotted over its own fraying, three times by the look, each knot tighter and shorter than the last. It is the shortest cloth here."
+    }
+  ]
+}

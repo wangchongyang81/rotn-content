@@ -1,0 +1,23 @@
+{
+  "id": "realm-24-the-choking",
+  "realmId": 24,
+  "name": "The Choking",
+  "description": "A hollow with no through draught. The air is thick and warm and tastes of dust and iron, and a candle here would stand straight up. Sound arrives flat and stops close. Everything is arranged for people who could not breathe easily.",
+  "pois": [
+    {
+      "id": "dead-air",
+      "label": "Dead air",
+      "text": "Step in and the pressure changes in your ears. The dust does not settle out of it; it hangs, and turning your head moves it and nothing else."
+    },
+    {
+      "id": "low-stools",
+      "label": "Low stools",
+      "text": "Set in a ring, all of them low enough that sitting puts your chin near your knees. The seats are polished in a way that says long sitting, not use."
+    },
+    {
+      "id": "iron-bowl",
+      "label": "Bowl of iron dust",
+      "text": "A shallow bowl of rust-red powder set on a flat stone. A finger has been drawn through it in a line that stops halfway, as if the hand tired."
+    }
+  ]
+}

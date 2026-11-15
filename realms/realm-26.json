@@ -1,0 +1,23 @@
+{
+  "id": "realm-26-anala",
+  "realmId": 26,
+  "name": "Anala",
+  "description": "The last of the small places and the warmest. Fire has been kept here, and the ground is blackened in a wide circle with the stones pushed out to the rim. It is the first warmth in a long while, and it has not been long enough to trust.",
+  "pois": [
+    {
+      "id": "blackened-circle",
+      "label": "Blackened circle",
+      "text": "Wide enough to lie down in, and the black is deepest at the centre where the heat was. The ash has been walked through by something barefoot, and the prints are all facing in."
+    },
+    {
+      "id": "pushed-stones",
+      "label": "Pushed-out stones",
+      "text": "Lined at the rim, every one turned so its flattest face is inward. That is not how a fire ring is built, it is how one is cleared."
+    },
+    {
+      "id": "warm-ground",
+      "label": "Warm ground",
+      "text": "Put your hand flat and it is warm well below the ash, deeper than a fire a day old would reach. Warm, and dry, and it stays that way after you take your hand off."
+    }
+  ]
+}

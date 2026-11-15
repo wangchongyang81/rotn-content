@@ -1,0 +1,23 @@
+{
+  "id": "realm-23-vayuni",
+  "realmId": 23,
+  "name": "Vayuni",
+  "description": "High, exposed ground where the wind has done the building. Stone has been stacked into low windbreaks, each one curved against the prevailing direction, and every break is worn thin on the windward face. The whole place leans away from the weather.",
+  "pois": [
+    {
+      "id": "curved-break",
+      "label": "Curved windbreak",
+      "text": "Built with a belly to the wind. The stone is scoured pale on that side and dark on the other, and the dark side is where anyone would sit."
+    },
+    {
+      "id": "scoured-stone",
+      "label": "Scoured stone",
+      "text": "A standing slab with its face eaten into ridges by grit. The ridges run level with the ground, so the wear is wind, not hands."
+    },
+    {
+      "id": "thin-wall",
+      "label": "Thinned wall",
+      "text": "Worn to half its thickness and still standing, with a hollow behind it the shape of somebody's back. The hollow is out of the wind and dry."
+    }
+  ]
+}

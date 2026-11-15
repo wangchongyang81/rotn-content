@@ -1,0 +1,23 @@
+{
+  "id": "realm-21-anila",
+  "realmId": 21,
+  "name": "Anila",
+  "description": "A place that has been arranged to make you wait. One road in, and along it a sequence of gates that all stand open, each with a bench beside it. The benches are worn and the gates are not, and every gate faces the same way.",
+  "pois": [
+    {
+      "id": "first-gate",
+      "label": "First gate",
+      "text": "Open, and hooked back against the wall so it cannot swing. The hook is a shaped iron pin, made for the purpose rather than improvised."
+    },
+    {
+      "id": "worn-bench",
+      "label": "Worn bench",
+      "text": "Seat and back both hollowed. The hollowing is even, which means many people sat the same way for a long time, and none of them fidgeted."
+    },
+    {
+      "id": "last-gate",
+      "label": "Last gate",
+      "text": "Standing at the far end, open like the rest, and beyond it the road simply stops at a low wall. There is nothing past the wall. There is a bench on this side of it too."
+    }
+  ]
+}
