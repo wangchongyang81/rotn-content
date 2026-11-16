@@ -1,0 +1,10 @@
+{
+  "id": "realm-21-the-worn-bench",
+  "realmId": 21,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Worn Bench",
+  "desc": "The bench is worn through to the grain in the middle, and the gate it faces is open, and every gate here faces back down the road.",
+  "lawfulText": "Sit until you are called. The whole place is built for waiting and the waiting is the point.",
+  "chaoticText": "Walk past the benches. An open gate is not a locked one."
+}

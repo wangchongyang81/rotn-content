@@ -1,0 +1,10 @@
+{
+  "id": "realm-22-the-sunken-marker",
+  "realmId": 22,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Sunken Marker",
+  "desc": "The marker is sunk to its shoulder and the prints go round it rather than over, and it is not a grave and not a signpost.",
+  "lawfulText": "Pull it up and set it straight. Whatever it marks, it was meant to be read.",
+  "chaoticText": "Leave it sunk. The prints have gone round it this long without needing to know."
+}

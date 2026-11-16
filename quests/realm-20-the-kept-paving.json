@@ -1,0 +1,10 @@
+{
+  "id": "realm-20-the-kept-paving",
+  "realmId": 20,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Kept Paving",
+  "desc": "The paving is swept and reset and not one stone of it is out of true, and a day mark is cut into it at the bowl's lip.",
+  "lawfulText": "Set the mark true again before you speak. A kept paving deserves a kept mark.",
+  "chaoticText": "Leave the mark. It has held this long and will hold through one more promise."
+}
