@@ -1,0 +1,10 @@
+{
+  "id": "realm-01-the-ash-debt",
+  "realmId": 1,
+  "kind": "choice",
+  "tier": "D",
+  "name": "The Ash Debt",
+  "desc": "A woman has swept this floor for eleven years and says the ash is hers by right of the broom. The man who owns the wall says the ash is the wall's.",
+  "lawfulText": "Sweep it into her sack and let the wall go bare. She has earned a floor.",
+  "chaoticText": "Sweep it into your own and tell neither of them. Ash is ash."
+}
