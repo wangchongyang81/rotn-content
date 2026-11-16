@@ -1,0 +1,10 @@
+{
+  "id": "realm-30-the-fuel-stack",
+  "realmId": 30,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Fuel Stack",
+  "desc": "The stack is squared and dry and short, and it is the only fuel within the apron, and the apron has been cleared to keep it that way.",
+  "lawfulText": "Add what you carry and leave the stack squared. A kept fire is a kept promise.",
+  "chaoticText": "Take a length for the road. Whoever keeps this will cut more."
+}

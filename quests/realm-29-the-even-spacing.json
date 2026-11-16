@@ -1,0 +1,10 @@
+{
+  "id": "realm-29-the-even-spacing",
+  "realmId": 29,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Even Spacing",
+  "desc": "The intervals between the rings are exact enough to walk blind, and the ground between them is bare of everything but grit.",
+  "lawfulText": "Walk the line between two rings and keep to it. The spacing is the last thing here still being kept.",
+  "chaoticText": "Cut across the rings. There is nobody left to mind a straight line."
+}

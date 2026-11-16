@@ -1,0 +1,10 @@
+{
+  "id": "realm-31-the-first-light-mark",
+  "realmId": 31,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The First-Light Mark",
+  "desc": "The mark is cut at the crest where the light reaches first, and it is cut shallow and the grass has come back over the edges of it.",
+  "lawfulText": "Clear the grass off it. It was cut to be seen at first light, so let it be seen.",
+  "chaoticText": "Leave it half-grassed. It has been read through worse and the light will find it."
+}
