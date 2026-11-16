@@ -1,0 +1,10 @@
+{
+  "id": "realm-15-the-moon-mark",
+  "realmId": 15,
+  "kind": "choice",
+  "tier": "D",
+  "name": "The Moon Mark",
+  "desc": "A moon is cut into the lip of the bowl, and the cut is older than the raking and shallower than it should be, as if it has been handled.",
+  "lawfulText": "Fill the bowl to the mark and leave it. The pledge is kept by moonlight, so keep it there.",
+  "chaoticText": "Fill it past the mark. Let whoever checks it know somebody was here and was generous."
+}

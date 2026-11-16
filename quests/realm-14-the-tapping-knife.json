@@ -1,0 +1,10 @@
+{
+  "id": "realm-14-the-tapping-knife",
+  "realmId": 14,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Tapping Knife",
+  "desc": "A knife is left in the fork of the nearest trunk, wiped clean on the bark and put back square, and the next trunk along has no score on it at all.",
+  "lawfulText": "Score the unmarked trunk. Take your turn at the bleeding.",
+  "chaoticText": "Take the knife and leave the trunk whole. It has managed without a cut this long."
+}

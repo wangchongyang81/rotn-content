@@ -1,0 +1,10 @@
+{
+  "id": "realm-16-the-chest-wall",
+  "realmId": 16,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Chest-High Wall",
+  "desc": "The wall around the bowl of the place is exactly chest high and unbroken, and the lanes inside are laid out for a stride shorter than yours.",
+  "lawfulText": "Walk the long way round to a door. The wall was put there to be respected.",
+  "chaoticText": "Go over it. Chest high is an invitation dressed as a boundary."
+}
