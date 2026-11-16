@@ -1,0 +1,10 @@
+{
+  "id": "realm-11-pearls-for-the-jars",
+  "realmId": 11,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Pearls for the Jars",
+  "desc": "The sealed jar is sunk and the seal is going, and the woman who wants it opened wants three tide pearls to weight the new seal down.",
+  "target": 3,
+  "deliverMat": "tide_pearl"
+}

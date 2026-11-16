@@ -1,0 +1,10 @@
+{
+  "id": "realm-11-canal-ghouls",
+  "realmId": 11,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "Canal Ghouls",
+  "desc": "The channels between the pressing rows carry water and the water carries Canal Ghouls, and they have been coming up onto the floors where the jars are. Keep them down.",
+  "target": 4,
+  "targetMob": "Canal Ghoul"
+}

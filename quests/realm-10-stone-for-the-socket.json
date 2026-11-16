@@ -1,0 +1,10 @@
+{
+  "id": "realm-10-stone-for-the-socket",
+  "realmId": 10,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Stone for the Socket",
+  "desc": "The socket is cut deep and packed with grit and it needs re-seating with good stone before the pole goes over. Bring three stoneheart.",
+  "target": 3,
+  "deliverMat": "stoneheart"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "realm-10-the-erasure-worm",
+  "realmId": 10,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Worm Under the Socket",
+  "desc": "An Erasure Worm has got under the socket stone and the pole has been leaning a degree off true since. The guy ropes are carrying weight they were not set for.",
+  "target": 1,
+  "targetMob": "Erasure Worm"
+}

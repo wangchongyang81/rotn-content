@@ -1,0 +1,10 @@
+{
+  "id": "realm-11-the-lamp-snuffer",
+  "realmId": 11,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Lamp-Snuffer",
+  "desc": "A Lamp-Snuffer Eel has worked its way up the channel to the wall brackets and puts the lamps out one at a time, and the pressing floors go dark in order.",
+  "target": 1,
+  "targetMob": "Lamp-Snuffer Eel"
+}

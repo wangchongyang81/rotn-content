@@ -1,0 +1,10 @@
+{
+  "id": "realm-12-the-sand-leviathan",
+  "realmId": 12,
+  "kind": "bounty",
+  "tier": "B",
+  "name": "What Scours the Channel",
+  "desc": "Something has been scouring the floor of the throat for a long time, and it is a Sand Leviathan, and it comes through on a schedule the walls still remember. Meet it in the channel.",
+  "target": 1,
+  "targetMob": "Sand Leviathan"
+}

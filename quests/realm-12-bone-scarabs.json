@@ -1,0 +1,10 @@
+{
+  "id": "realm-12-bone-scarabs",
+  "realmId": 12,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "Scarabs on the Scoured Floor",
+  "desc": "The floor at the throat is scoured pale in a channel and Bone Scarabs work the pale part, and everything you say down there they answer a half-beat late. Clear the channel.",
+  "target": 4,
+  "targetMob": "Bone Scarab"
+}

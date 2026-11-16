@@ -1,0 +1,10 @@
+{
+  "id": "realm-12-stone-for-the-lip",
+  "realmId": 12,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Stone for the Lip",
+  "desc": "The lip overhangs the channel like a lid and the rock under it is dry and going. Three stoneheart packed under it buys the channel another season.",
+  "target": 3,
+  "deliverMat": "stoneheart"
+}

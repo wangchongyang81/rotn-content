@@ -1,0 +1,10 @@
+{
+  "id": "realm-10-the-granite-bailiffs",
+  "realmId": 10,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "The Bailiffs on the Swept Circle",
+  "desc": "The circle round the pole is swept bare wider than the pole is tall and Granite Bailiffs have taken to standing in it, in the way, facing nothing. Move them off.",
+  "target": 4,
+  "targetMob": "Granite Bailiff"
+}
