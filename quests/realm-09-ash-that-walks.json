@@ -1,0 +1,10 @@
+{
+  "id": "realm-09-ash-that-walks",
+  "realmId": 9,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "Ash That Walks",
+  "desc": "The rings of stone are all open on the side the light currently is, and the Ash Berserkers have been walking the gap. They do not use the sighting post. Break their circuit.",
+  "target": 4,
+  "targetMob": "Ash Berserker"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "realm-07-the-songless",
+  "realmId": 7,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Songless",
+  "desc": "A Songless Thrall works the debt board at night, rubbing out one name at a time, and the moneylender wants to know which name it is working toward.",
+  "target": 1,
+  "targetMob": "Songless Thrall"
+}

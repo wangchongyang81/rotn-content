@@ -1,0 +1,10 @@
+{
+  "id": "realm-09-the-vulture-at-the-post",
+  "realmId": 9,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Vulture at the Post",
+  "desc": "A Bone-Picker Vulture has taken the sighting post for a perch and the readings have been going wrong by a hand's width since. It is worth coin to the ones who read them.",
+  "target": 1,
+  "targetMob": "Bone-Picker Vulture"
+}

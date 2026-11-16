@@ -1,0 +1,10 @@
+{
+  "id": "realm-08-the-echo-that-answers",
+  "realmId": 8,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Echo That Answers",
+  "desc": "The sound of the terraces stops being sound after a while, and then one False-Echo starts answering the spill in its own time. It has been getting the timing wrong on purpose.",
+  "target": 1,
+  "targetMob": "False-Echo"
+}

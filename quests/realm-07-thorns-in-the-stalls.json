@@ -1,0 +1,10 @@
+{
+  "id": "realm-07-thorns-in-the-stalls",
+  "realmId": 7,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "Thorns in the Stalls",
+  "desc": "The awnings are up and nothing is under them but Thorn Dryads, which have rooted in the empty stalls and take a cut of anything that passes. Clear the row.",
+  "target": 4,
+  "targetMob": "Thorn Dryad"
+}

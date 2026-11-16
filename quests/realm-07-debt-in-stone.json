@@ -1,0 +1,10 @@
+{
+  "id": "realm-07-debt-in-stone",
+  "realmId": 7,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Debt in Stone",
+  "desc": "A name on the board is settled in stoneheart rather than coin, which the board allows and nobody has taken up. Bring three.",
+  "target": 3,
+  "deliverMat": "stoneheart"
+}

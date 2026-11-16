@@ -1,0 +1,10 @@
+{
+  "id": "realm-08-shoring-the-breach",
+  "realmId": 8,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Shoring the Breach",
+  "desc": "The breach is taking the terrace below it a sheet at a time and the wall has to be packed with stone before the top one empties. Bring three stoneheart.",
+  "target": 3,
+  "deliverMat": "stoneheart"
+}

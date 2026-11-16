@@ -1,0 +1,10 @@
+{
+  "id": "realm-09-embers-for-the-cold-pit",
+  "realmId": 9,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Embers for the Cold Pit",
+  "desc": "The fire pit at the centre of the rings is swept and cold and the only thing here not oriented to the light. Somebody wants it lit before dark and wants ember shards to do it with.",
+  "target": 3,
+  "deliverMat": "ember_shard"
+}

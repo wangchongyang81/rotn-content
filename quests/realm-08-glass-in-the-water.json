@@ -1,0 +1,10 @@
+{
+  "id": "realm-08-glass-in-the-water",
+  "realmId": 8,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "Glass in the Water",
+  "desc": "The ink water is thin enough to see into and Glass Hounds work the terrace lips where it spills. They cut the walls as they pass. Thin them off the upper terraces.",
+  "target": 4,
+  "targetMob": "Glass Hound"
+}
