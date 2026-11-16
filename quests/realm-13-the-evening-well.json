@@ -1,0 +1,10 @@
+{
+  "id": "realm-13-the-evening-well",
+  "realmId": 13,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Evening Well",
+  "desc": "The well is set where two lanes cross and four mirrors look into it, so the water holds four lamps that are not there.",
+  "lawfulText": "Draw from it and drink. Four lights in the water is four lights more than nothing.",
+  "chaoticText": "Leave it. Water that shows you lamps it does not have is water with an opinion."
+}

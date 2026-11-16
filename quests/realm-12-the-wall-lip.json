@@ -1,0 +1,10 @@
+{
+  "id": "realm-12-the-wall-lip",
+  "realmId": 12,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Overhanging Lip",
+  "desc": "The lip comes out over the channel and the rock under it is dry and the rock beside it is not.",
+  "lawfulText": "Climb to the lip. Whatever scours the floor from above can be met from above.",
+  "chaoticText": "Stay in the channel. The lip is a lid and lids come down."
+}

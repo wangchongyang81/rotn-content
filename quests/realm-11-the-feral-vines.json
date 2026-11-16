@@ -1,0 +1,10 @@
+{
+  "id": "realm-11-the-feral-vines",
+  "realmId": 11,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Feral Vines",
+  "desc": "Under the vines the shapes of things are still there: a bench, a gate, a person-sized gap that has not closed.",
+  "lawfulText": "Cut them back and let the shapes be shapes again. The terraces were built to be worked.",
+  "chaoticText": "Leave them. The vines are doing the pressing now and nobody has had to ask them."
+}
