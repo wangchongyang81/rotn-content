@@ -1,0 +1,19 @@
+{
+  "id": "realm-23-the-lee-side",
+  "realmId": 23,
+  "kind": "intro",
+  "beats": [
+    {
+      "text": "The wind has done the building here. Stone is stacked into low curves, each one set against the weather.",
+      "tone": "tense"
+    },
+    {
+      "text": "Every break is worn thin on the windward face and thick on the lee, so the whole place leans away from the wind.",
+      "tone": "neutral"
+    },
+    {
+      "text": "You take the lee side without being told to.",
+      "tone": "wry"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "realm-26-the-first-warmth",
+  "realmId": 26,
+  "kind": "intro",
+  "beats": [
+    {
+      "text": "Fire has been kept here. The ground is blackened in a wide circle and the stones have been pushed out to the rim.",
+      "tone": "neutral"
+    },
+    {
+      "text": "It is the first warmth in a long while, and it has not been long enough to trust.",
+      "tone": "tense"
+    },
+    {
+      "text": "You put a hand down on the warm ground and leave it there a moment longer than you meant to.",
+      "tone": "neutral"
+    }
+  ]
+}

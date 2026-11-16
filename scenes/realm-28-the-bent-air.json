@@ -1,0 +1,19 @@
+{
+  "id": "realm-28-the-bent-air",
+  "realmId": 28,
+  "kind": "intro",
+  "beats": [
+    {
+      "text": "The cracks run downhill in long parallel splits, and the stone between them is hot enough to feel through a boot.",
+      "tone": "tense"
+    },
+    {
+      "text": "Air rises off the slope and bends the far edge of it out of shape.",
+      "tone": "neutral"
+    },
+    {
+      "text": "There are cool stones set among the hot ones, and they are set in a line, and the line is the way up.",
+      "tone": "neutral"
+    }
+  ]
+}

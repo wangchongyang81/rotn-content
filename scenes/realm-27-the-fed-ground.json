@@ -1,0 +1,19 @@
+{
+  "id": "realm-27-the-fed-ground",
+  "realmId": 27,
+  "kind": "intro",
+  "beats": [
+    {
+      "text": "No building, only a broad flat of dark soil kept clear, and the clearing bounded by stakes with the bark stripped off.",
+      "tone": "neutral"
+    },
+    {
+      "text": "The soil is fine and loose and nothing grows in it at all.",
+      "tone": "tense"
+    },
+    {
+      "text": "The boundary is a straight line on every side. Somebody keeps it straight.",
+      "tone": "tense"
+    }
+  ]
+}

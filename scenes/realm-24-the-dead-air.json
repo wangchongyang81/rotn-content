@@ -1,0 +1,19 @@
+{
+  "id": "realm-24-the-dead-air",
+  "realmId": 24,
+  "kind": "intro",
+  "beats": [
+    {
+      "text": "There is no through draught. The air is thick and warm and tastes of dust and iron.",
+      "tone": "tense"
+    },
+    {
+      "text": "A candle here would stand straight up. Sound arrives flat and stops close to the mouth.",
+      "tone": "neutral"
+    },
+    {
+      "text": "Low stools are set about, and a bowl of iron dust, and everything is arranged for people who could not breathe easily.",
+      "tone": "neutral"
+    }
+  ]
+}

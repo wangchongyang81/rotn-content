@@ -1,0 +1,21 @@
+{
+  "id": "realm-25-what-the-cloth-remembers",
+  "realmId": 25,
+  "kind": "encounter",
+  "npc": "pledge-keeper",
+  "beats": [
+    {
+      "text": "There is no bowl and no ring. Four posts stand in a square with cloths tied to them, and the cloths are the record.",
+      "tone": "neutral"
+    },
+    {
+      "text": "The middle is empty and the cloths read toward it. What was promised here went into moving air.",
+      "tone": "tense"
+    },
+    {
+      "text": "\"Read the cloth, not me,\" says the keeper. \"The cloth was there when it was said.\"",
+      "tone": "wry",
+      "speaker": "Pledge-keeper"
+    }
+  ]
+}
