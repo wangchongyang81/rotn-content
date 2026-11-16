@@ -1,0 +1,10 @@
+{
+  "id": "realm-10-the-socket-stone",
+  "realmId": 10,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Socket Stone",
+  "desc": "The socket is cut deep and packed with grit and the wood in it has been shimmed at some point by somebody who did not want to be noticed doing it.",
+  "lawfulText": "Pull the shims and re-seat the pole properly. Do the job the way the pledge asks.",
+  "chaoticText": "Leave the shims. The pole is standing, and whoever set them had a reason."
+}

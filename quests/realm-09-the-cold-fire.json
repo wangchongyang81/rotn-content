@@ -1,0 +1,10 @@
+{
+  "id": "realm-09-the-cold-fire",
+  "realmId": 9,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Cold Fire Pit",
+  "desc": "A fire pit is set at the centre of the rings, swept and ready, and it is the only thing here not oriented to the light.",
+  "lawfulText": "Light it. Whatever the sky is doing, a fire is a thing you can hold.",
+  "chaoticText": "Leave it cold. It has stayed unlit this long and the place still works."
+}

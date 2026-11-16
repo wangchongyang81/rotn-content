@@ -1,0 +1,10 @@
+{
+  "id": "realm-08-the-drowned-steps",
+  "realmId": 8,
+  "kind": "choice",
+  "tier": "D",
+  "name": "The Drowned Steps",
+  "desc": "Steps go down into the ink water and keep going past where you can see them, and the water is warm at the top of them.",
+  "lawfulText": "Go down and find the bottom. Somebody cut these to be used.",
+  "chaoticText": "Stay on the dry course. The water is constant and will still be constant later."
+}
