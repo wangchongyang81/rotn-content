@@ -1,0 +1,10 @@
+{
+  "id": "realm-23-the-scoured-stone",
+  "realmId": 23,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Scoured Stone",
+  "desc": "The stone underfoot is scoured smooth and the grit has all gone downwind of it, and the wind has been at it long enough to shape it.",
+  "lawfulText": "Stack against the prevailing direction, the way every break here is stacked.",
+  "chaoticText": "Stack square and let the wind find out. A wall that only works one way is a wall that only works once."
+}

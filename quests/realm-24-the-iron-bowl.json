@@ -1,0 +1,10 @@
+{
+  "id": "realm-24-the-iron-bowl",
+  "realmId": 24,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Bowl of Iron Dust",
+  "desc": "The bowl is set at the height of a seated chest and the dust in it is fine and red and has not been stirred.",
+  "lawfulText": "Stir it and see what settles. Dust that has been left alone is dust somebody meant to leave.",
+  "chaoticText": "Leave it. A bowl of dust is the least urgent thing in a hollow this warm."
+}

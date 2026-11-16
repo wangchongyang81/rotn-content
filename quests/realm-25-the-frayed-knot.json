@@ -1,0 +1,10 @@
+{
+  "id": "realm-25-the-frayed-knot",
+  "realmId": 25,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Frayed Knot",
+  "desc": "One knot is down to three strands and the cloth on it has been read so often the weave has gone at the fold.",
+  "lawfulText": "Retie it over the fray and keep the record whole. It is the only record there is.",
+  "chaoticText": "Cut it out and tie fresh. A knot read to pieces is not keeping anything."
+}
