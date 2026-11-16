@@ -1,0 +1,20 @@
+{
+  "id": "realm-19-the-one-shadow",
+  "realmId": 19,
+  "kind": "encounter",
+  "npc": "shadow-watcher",
+  "beats": [
+    {
+      "text": "One thing here casts, and it is a post, and its shadow is longer and wider than the post can account for.",
+      "tone": "tense"
+    },
+    {
+      "text": "Everything else has been set to stay out of the shadow. You can read the care in the spacing.",
+      "tone": "neutral"
+    },
+    {
+      "text": "The shadow does not point where the light does. It has moved since it was measured.",
+      "tone": "tense"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "realm-20-what-is-promised-by-day",
+  "realmId": 20,
+  "kind": "encounter",
+  "npc": "pledge-keeper",
+  "beats": [
+    {
+      "text": "The bowl is dark stone and the ring around it is paved, and the paving has been kept, swept and reset.",
+      "tone": "neutral"
+    },
+    {
+      "text": "A day mark is cut into the paving. This one is promised in front of everything, and the light is full.",
+      "tone": "tense"
+    },
+    {
+      "text": "\"No moon to blame here,\" says the keeper. \"Say it where I can hear it.\"",
+      "tone": "wry",
+      "speaker": "Pledge-keeper"
+    }
+  ]
+}

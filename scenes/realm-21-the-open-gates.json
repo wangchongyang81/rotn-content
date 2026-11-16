@@ -1,0 +1,19 @@
+{
+  "id": "realm-21-the-open-gates",
+  "realmId": 21,
+  "kind": "intro",
+  "beats": [
+    {
+      "text": "One road in, and along it a run of gates, all of them standing open, each with a bench beside it.",
+      "tone": "neutral"
+    },
+    {
+      "text": "The benches are worn through to the grain and the gates are not worn at all. Every gate faces back down the road.",
+      "tone": "tense"
+    },
+    {
+      "text": "You have been here four minutes and nobody has told you to wait yet.",
+      "tone": "wry"
+    }
+  ]
+}

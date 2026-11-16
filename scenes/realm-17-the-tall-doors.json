@@ -1,0 +1,19 @@
+{
+  "id": "realm-17-the-tall-doors",
+  "realmId": 17,
+  "kind": "intro",
+  "beats": [
+    {
+      "text": "The wall comes to your shoulder here, and the doorways go up past twice your height.",
+      "tone": "tense"
+    },
+    {
+      "text": "It is Ahas the right way up. Every proportion is the mirror of the one below, and none of them are yours.",
+      "tone": "neutral"
+    },
+    {
+      "text": "You go through the tall door without ducking, and it does not feel like a courtesy.",
+      "tone": "wry"
+    }
+  ]
+}

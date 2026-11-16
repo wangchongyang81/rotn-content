@@ -1,0 +1,19 @@
+{
+  "id": "realm-18-the-open-roof",
+  "realmId": 18,
+  "kind": "intro",
+  "beats": [
+    {
+      "text": "Two long roofs have been taken off and the walls between them knocked through, so the whole place is one corridor and it is open to the sky.",
+      "tone": "neutral"
+    },
+    {
+      "text": "Ladders stand against the inside walls, set square, waiting on people who went up and did not come down.",
+      "tone": "tense"
+    },
+    {
+      "text": "The corridor faces the sky for its whole length. You keep looking up and there is nothing there but weather.",
+      "tone": "neutral"
+    }
+  ]
+}
