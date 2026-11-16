@@ -1,0 +1,10 @@
+{
+  "id": "realm-06-the-surveyors-house",
+  "realmId": 6,
+  "kind": "choice",
+  "tier": "D",
+  "name": "The Surveyor's House",
+  "desc": "The surveyor's house still has its chains and its stakes, and its plans are on the table, and the town has been built to them to the inch. The townsfolk say the plans came first and the ground was made to fit.",
+  "lawfulText": "Follow the chain. If the plans are true, the town is true, and you can walk it without guessing.",
+  "chaoticText": "Walk it by eye. Let the ground argue with the paper for once."
+}

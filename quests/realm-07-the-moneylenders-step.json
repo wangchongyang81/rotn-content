@@ -1,0 +1,10 @@
+{
+  "id": "realm-07-the-moneylenders-step",
+  "realmId": 7,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Moneylender's Step",
+  "desc": "A woman sits on the step with a ledger and no stall, and three names on the board are hers to call in. She will sell you one of them at what it says.",
+  "lawfulText": "Buy a name and clear it. The debt dies with the chalk.",
+  "chaoticText": "Buy nothing. A name that can be sold is a name that can be sold twice."
+}

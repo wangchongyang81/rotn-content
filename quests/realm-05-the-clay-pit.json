@@ -1,0 +1,10 @@
+{
+  "id": "realm-05-the-clay-pit",
+  "realmId": 5,
+  "kind": "choice",
+  "tier": "D",
+  "name": "The Clay Pit",
+  "desc": "The pit the bank was cut from is still open, and the clay in it is still wet enough to take a hand.",
+  "lawfulText": "Press the bank with the rest. It costs a palm of clay and it holds you to it.",
+  "chaoticText": "Take the clay and press nothing. Keep your hands your own."
+}
