@@ -1,0 +1,10 @@
+{
+  "id": "realm-26-the-warm-ground",
+  "realmId": 26,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Warm Ground",
+  "desc": "The ground inside the circle is warm through and the warmth has been in it long enough to reach the depth of a hand.",
+  "lawfulText": "Feed the fire and keep the circle. Warmth that is kept is warmth somebody meant you to have.",
+  "chaoticText": "Bank it and walk on. It has not been long enough to trust, and you can come back to a banked fire."
+}

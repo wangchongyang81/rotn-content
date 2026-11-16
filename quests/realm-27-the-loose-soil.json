@@ -1,0 +1,10 @@
+{
+  "id": "realm-27-the-loose-soil",
+  "realmId": 27,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Loose Soil",
+  "desc": "The soil turns over light and dry and does not hold together in the hand, and it is the same colour to the depth of a spade.",
+  "lawfulText": "Turn a spade of it and put it back. Ground that has been fed should be turned.",
+  "chaoticText": "Scuff it and move on. Nothing grows here anyway."
+}

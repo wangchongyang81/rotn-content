@@ -1,0 +1,10 @@
+{
+  "id": "realm-28-the-cool-stone",
+  "realmId": 28,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Cool Stone",
+  "desc": "Cool stones are set among the hot ones in a line, and the line is the only way up that keeps a boot sole.",
+  "lawfulText": "Keep to the line. Somebody laid it and somebody laid it for feet.",
+  "chaoticText": "Cut across the hot stone. It is faster, and a boot is replaceable."
+}
