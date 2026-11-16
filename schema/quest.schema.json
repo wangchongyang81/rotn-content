@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "rotn/quest",
+  "type": "object",
+  "required": ["id", "realmId", "kind", "tier", "name", "desc"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "realmId": { "type": "integer", "minimum": 1, "maximum": 34 },
+    "kind": { "enum": ["hunt", "bounty", "fetch", "choice", "main", "romance"] },
+    "tier": { "enum": ["D", "C", "B", "A", "S"] },
+    "name": { "type": "string", "minLength": 1 },
+    "desc": { "type": "string", "minLength": 1 },
+    "target": { "type": "integer", "minimum": 0 },
+    "targetMob": { "type": "string" },
+    "deliverMat": { "type": "string" },
+    "lawfulText": { "type": "string" },
+    "chaoticText": { "type": "string" }
+  }
+}
