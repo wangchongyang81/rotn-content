@@ -1,0 +1,10 @@
+{
+  "id": "realm-02-the-niche-coin",
+  "realmId": 2,
+  "kind": "choice",
+  "tier": "D",
+  "name": "What the Niche Is For",
+  "desc": "A shrine niche is cut into the wall at shoulder height, and inside it is a coin, old and green and set square. Nobody has taken it. The road does not get easier past this point.",
+  "lawfulText": "Leave the coin and add one of your own. Whatever it is for, keep it fed.",
+  "chaoticText": "Take the coin. It has sat there long enough to be owed to somebody, and you are somebody."
+}

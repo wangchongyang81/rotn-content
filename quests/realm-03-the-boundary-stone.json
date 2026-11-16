@@ -1,0 +1,10 @@
+{
+  "id": "realm-03-the-boundary-stone",
+  "realmId": 3,
+  "kind": "choice",
+  "tier": "D",
+  "name": "The Boundary Stone",
+  "desc": "The stone that marks where Mitali stops has been shifted a pace into the road, and the fence beside it has not been moved to match.",
+  "lawfulText": "Put it back where the fence says it belongs. A boundary that moves is not a boundary.",
+  "chaoticText": "Leave it. A village that lets its stone wander is telling you something about itself."
+}

@@ -1,0 +1,10 @@
+{
+  "id": "realm-04-the-hollow-trunk",
+  "realmId": 4,
+  "kind": "choice",
+  "tier": "D",
+  "name": "The Hollow Trunk",
+  "desc": "One trunk stands hollow and dry among the living ones, and the rot pool at its foot is the sweetest thing in the street. It will go over on its own, or it will not.",
+  "lawfulText": "Bring it down now, while it can still fall where you choose.",
+  "chaoticText": "Leave it standing. It is not in your way yet."
+}
