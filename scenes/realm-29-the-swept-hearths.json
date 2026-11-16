@@ -1,0 +1,19 @@
+{
+  "id": "realm-29-the-swept-hearths",
+  "realmId": 29,
+  "kind": "intro",
+  "beats": [
+    {
+      "text": "Hearths without houses. Each is a ring of stone with a pit at the centre, set at even intervals across open ground.",
+      "tone": "neutral"
+    },
+    {
+      "text": "Every pit is cold and swept. People lived here; the living has been taken away and the sweeping kept up.",
+      "tone": "tense"
+    },
+    {
+      "text": "The spacing is exact enough to walk with your eyes shut and not touch a ring.",
+      "tone": "tense"
+    }
+  ]
+}

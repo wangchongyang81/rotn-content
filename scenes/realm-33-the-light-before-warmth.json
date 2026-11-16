@@ -1,0 +1,19 @@
+{
+  "id": "realm-33-the-light-before-warmth",
+  "realmId": 33,
+  "kind": "intro",
+  "beats": [
+    {
+      "text": "Nothing is built here. The ridge is bare and the bareness has been kept.",
+      "tone": "neutral"
+    },
+    {
+      "text": "The light arrives before the warmth does, and there is nothing to stand behind.",
+      "tone": "tense"
+    },
+    {
+      "text": "You are early. The place was arranged for exactly that and does not congratulate you.",
+      "tone": "wry"
+    }
+  ]
+}

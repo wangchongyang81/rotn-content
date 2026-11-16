@@ -1,0 +1,19 @@
+{
+  "id": "realm-32-the-second-look",
+  "realmId": 32,
+  "kind": "intro",
+  "beats": [
+    {
+      "text": "A wall holds for a moment and then reads as a row of posts. A post reads as a person standing and settles again when you stop looking.",
+      "tone": "tense"
+    },
+    {
+      "text": "The ground underfoot is the only thing that stays the same, so you keep your eyes down more than you mean to.",
+      "tone": "neutral"
+    },
+    {
+      "text": "The second look is worse than the first and no more true.",
+      "tone": "wry"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "realm-30-what-is-promised-to-flame",
+  "realmId": 30,
+  "kind": "encounter",
+  "npc": "pledge-keeper",
+  "beats": [
+    {
+      "text": "A low stone throat stands open at the centre of a scorched apron, and there is fire in it, and the stone around the fire has gone white.",
+      "tone": "tense"
+    },
+    {
+      "text": "Everything within the apron has been cleared back to a distance, and a fuel stack is built and squared at the edge of it.",
+      "tone": "neutral"
+    },
+    {
+      "text": "\"Last one,\" says the keeper. \"This is the only one you can see working.\"",
+      "tone": "wry",
+      "speaker": "Pledge-keeper"
+    }
+  ]
+}
