@@ -1,0 +1,10 @@
+{
+  "id": "realm-18-the-inside-ladder",
+  "realmId": 18,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Ladder Against the Wall",
+  "desc": "The ladder is set square and the wall behind it is the only wall in the corridor still standing to full height.",
+  "lawfulText": "Climb it. It was left in place, which is not the same as being left behind.",
+  "chaoticText": "Walk the corridor first. A ladder will still be a ladder on the way back."
+}

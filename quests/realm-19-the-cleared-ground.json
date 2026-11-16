@@ -1,0 +1,10 @@
+{
+  "id": "realm-19-the-cleared-ground",
+  "realmId": 19,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Cleared Ground",
+  "desc": "The ground is cleared back from the shadow on every side, and the spacing has been kept, and there is room to walk round the edge without touching it.",
+  "lawfulText": "Keep to the clear. Whatever the shadow is, it has been given room and has earned it.",
+  "chaoticText": "Walk into it. A shadow cannot take a hand off you."
+}

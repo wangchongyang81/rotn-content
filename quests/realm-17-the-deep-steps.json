@@ -1,0 +1,10 @@
+{
+  "id": "realm-17-the-deep-steps",
+  "realmId": 17,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Deep Steps",
+  "desc": "The treads are deep and worn into dishes at the middle of every one, and the rise is too low for a full stride.",
+  "lawfulText": "Take them at the pace they were cut for. Two short steps to a stride is still going up.",
+  "chaoticText": "Skip the treads. The steps were built by someone who was not in a hurry and you are."
+}
