@@ -1,0 +1,10 @@
+{
+  "id": "realm-03-the-moon-mad-fisher",
+  "realmId": 3,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Fisher Who Stayed Out",
+  "desc": "A Moon-Mad Fisher went out on the water and came back wrong, and it still fishes the same bank every night with no line in the water. The village will pay to have it stopped.",
+  "target": 1,
+  "targetMob": "Moon-Mad Fisher"
+}

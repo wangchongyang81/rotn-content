@@ -1,0 +1,10 @@
+{
+  "id": "realm-03-pearls-for-the-boundary",
+  "realmId": 3,
+  "kind": "fetch",
+  "tier": "D",
+  "name": "Pearls for the Boundary",
+  "desc": "The boundary stone has been shifted and the fence not moved with it, and somebody wants tide pearls set along the fence line to settle the argument.",
+  "target": 3,
+  "deliverMat": "tide_pearl"
+}

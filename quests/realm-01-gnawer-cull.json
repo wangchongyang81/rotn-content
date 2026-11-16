@@ -1,0 +1,10 @@
+{
+  "id": "realm-01-gnawer-cull",
+  "realmId": 1,
+  "kind": "hunt",
+  "tier": "D",
+  "name": "Something in the Grit",
+  "desc": "The floor here is grit and old ash and it moves in places it should not. Canyon Gnawers work the seam in the dark and take what they find. Thin them out.",
+  "target": 4,
+  "targetMob": "Canyon Gnawer"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "realm-02-the-rime-wraiths",
+  "realmId": 2,
+  "kind": "hunt",
+  "tier": "D",
+  "name": "Rime on the Walls",
+  "desc": "The walls here are the colour of dried blood and they have gone white at the edges. Rime Wraiths come off them at night and follow the cart ruts. Break the run.",
+  "target": 4,
+  "targetMob": "Rime Wraith"
+}

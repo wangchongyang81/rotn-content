@@ -1,0 +1,10 @@
+{
+  "id": "realm-01-stone-from-the-shell",
+  "realmId": 1,
+  "kind": "fetch",
+  "tier": "D",
+  "name": "Stone From the Shell",
+  "desc": "A woman on the terrace wants stoneheart and will not go down for it herself. The tortoises carry it in the shell and do not part with it easily.",
+  "target": 3,
+  "deliverMat": "stoneheart"
+}

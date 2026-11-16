@@ -1,0 +1,10 @@
+{
+  "id": "realm-02-the-star-eater",
+  "realmId": 2,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Moth at the Shrine",
+  "desc": "A Star-Eater Moth has settled in the shrine niche and taken the coin out of it and the light with it. The road does not get easier while it is there.",
+  "target": 1,
+  "targetMob": "Star-Eater Moth"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "realm-03-the-tide-lurkers",
+  "realmId": 3,
+  "kind": "hunt",
+  "tier": "D",
+  "name": "Nothing Comes Up the Well",
+  "desc": "The well is clean and the fences are good and the bucket comes up light. Tide Lurkers have got into the water table and the village has stopped asking why. Clear them out.",
+  "target": 4,
+  "targetMob": "Tide Lurker"
+}

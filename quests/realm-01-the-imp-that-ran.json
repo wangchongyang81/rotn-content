@@ -1,0 +1,10 @@
+{
+  "id": "realm-01-the-imp-that-ran",
+  "realmId": 1,
+  "kind": "bounty",
+  "tier": "D",
+  "name": "The Imp That Ran",
+  "desc": "A Dust Asura-Imp broke off from a digging party and has been living off what the seam gives it, which is not much, and it has got brave. It is worth coin to the ones who were digging.",
+  "target": 1,
+  "targetMob": "Dust Asura-Imp"
+}
