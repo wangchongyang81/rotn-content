@@ -1,0 +1,10 @@
+{
+  "id": "realm-34-the-hole",
+  "realmId": 34,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Hole in the Roof",
+  "desc": "The hole is directly over the floor, and the writing around it stops short of the wet, and the floor under it is the only unwritten surface in the room.",
+  "lawfulText": "Write on the floor. It is the last surface and the room is asking for it.",
+  "chaoticText": "Leave the floor bare. Somebody stopped short of it for a reason you can still find."
+}

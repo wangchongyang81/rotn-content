@@ -1,0 +1,10 @@
+{
+  "id": "realm-33-the-downslope",
+  "realmId": 33,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Downslope",
+  "desc": "The downslope is bare and long and the warmth comes up it later than the light comes over the crest, and there is nothing to break either of them.",
+  "lawfulText": "Wait for the warmth before you move. Being early is the whole of this place.",
+  "chaoticText": "Go down now. You have been early and that is enough."
+}

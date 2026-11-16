@@ -1,0 +1,10 @@
+{
+  "id": "realm-32-the-steady-ground",
+  "realmId": 32,
+  "kind": "choice",
+  "tier": "C",
+  "name": "The Steady Ground",
+  "desc": "The ground is the one thing that does not change, and it is plain and hard and holds a print for as long as you care to look at it.",
+  "lawfulText": "Keep your eyes down and your feet on it. The ground is the only witness here.",
+  "chaoticText": "Look up and trust the second look. The shapes have been wrong this long without hurting anyone."
+}
