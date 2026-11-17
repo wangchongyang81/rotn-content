@@ -1,0 +1,10 @@
+{
+  "id": "realm-14-feathers-for-the-cups",
+  "realmId": 14,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Feathers for the Cups",
+  "desc": "The cups that the wolves took have to be replaced and the grove has always been served with gale feathers set in the rim to keep the drink moving. Bring three.",
+  "target": 3,
+  "deliverMat": "gale_feather"
+}

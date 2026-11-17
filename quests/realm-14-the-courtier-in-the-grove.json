@@ -1,0 +1,10 @@
+{
+  "id": "realm-14-the-courtier-in-the-grove",
+  "realmId": 14,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Courtier in the Grove",
+  "desc": "A Frost Courtier stands in the grove in full dress and has not moved, and the cups nearest it have gone cold and stopped being drunk from. It is worth coin to have it gone.",
+  "target": 1,
+  "targetMob": "Frost Courtier"
+}

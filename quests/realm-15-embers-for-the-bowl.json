@@ -1,0 +1,10 @@
+{
+  "id": "realm-15-embers-for-the-bowl",
+  "realmId": 15,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Embers for the Bowl",
+  "desc": "The bowl is dry and it is not the dry of a bowl never filled, and the keeper wants ember shards set under it so it holds warmth through the night check. Bring three.",
+  "target": 3,
+  "deliverMat": "ember_shard"
+}

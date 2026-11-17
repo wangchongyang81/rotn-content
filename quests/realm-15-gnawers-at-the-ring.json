@@ -1,0 +1,10 @@
+{
+  "id": "realm-15-gnawers-at-the-ring",
+  "realmId": 15,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "Gnawers at the Ring",
+  "desc": "The ring round the pale bowl is raked fresh and unbroken to the rim, and Forge Gnawers have been coming up through it and leaving it broken. Keep them off the raking.",
+  "target": 4,
+  "targetMob": "Forge Gnawer"
+}

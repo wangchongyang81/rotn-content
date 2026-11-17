@@ -1,0 +1,10 @@
+{
+  "id": "realm-13-the-monk-who-wont-be-counted",
+  "realmId": 13,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Monk Who Won't Be Counted",
+  "desc": "An Extremist Flame-Monk walks the mirror lanes and refuses to be counted twice, and has broken two sets of facing mirrors arguing about it. The lamp-lighter wants it settled.",
+  "target": 1,
+  "targetMob": "Extremist Flame-Monk"
+}

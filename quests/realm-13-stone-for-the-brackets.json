@@ -1,0 +1,10 @@
+{
+  "id": "realm-13-stone-for-the-brackets",
+  "realmId": 13,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Stone for the Brackets",
+  "desc": "Three brackets are down and the lanes are dark between the lamps that are left, which makes the mirrors worse. Bring three stoneheart and they can be reset.",
+  "target": 3,
+  "deliverMat": "stoneheart"
+}

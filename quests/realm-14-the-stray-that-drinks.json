@@ -1,0 +1,10 @@
+{
+  "id": "realm-14-the-stray-that-drinks",
+  "realmId": 14,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "The Stray That Drinks",
+  "desc": "Every cup under every scored V is full, and Season-Stray Wolves have learned to take the cups off the trunks and drink them dry. They are working the grove in a pack. Break it.",
+  "target": 4,
+  "targetMob": "Season-Stray Wolf"
+}

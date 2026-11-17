@@ -1,0 +1,10 @@
+{
+  "id": "realm-13-yaksha-on-the-brackets",
+  "realmId": 13,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "Yaksha on the Brackets",
+  "desc": "The lamps are set at shoulder height on brackets and the mirrors turn them back into the lane, and Crag Yaksha have taken the brackets for perches and broken three. Get them off.",
+  "target": 4,
+  "targetMob": "Crag Yaksha"
+}

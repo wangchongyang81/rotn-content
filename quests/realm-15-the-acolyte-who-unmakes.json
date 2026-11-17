@@ -1,0 +1,10 @@
+{
+  "id": "realm-15-the-acolyte-who-unmakes",
+  "realmId": 15,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Acolyte Who Unmakes",
+  "desc": "An Unmaker Acolyte has been at the moon mark on the bowl's lip, taking the cut back a little each night, and the pledge is checked by that mark. Stop it before the mark is gone.",
+  "target": 1,
+  "targetMob": "Unmaker Acolyte"
+}
