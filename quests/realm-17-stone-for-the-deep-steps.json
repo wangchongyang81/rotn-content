@@ -1,0 +1,10 @@
+{
+  "id": "realm-17-stone-for-the-deep-steps",
+  "realmId": 17,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Stone for the Deep Steps",
+  "desc": "The deep treads are worn into dishes and two of them have gone through at the middle. Three stoneheart and the steps can be made good again.",
+  "target": 3,
+  "deliverMat": "stoneheart"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "realm-18-pearls-for-the-steam",
+  "realmId": 18,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Pearls for the Steam",
+  "desc": "Steam Wisps come up through the floor of the corridor and the tiles lift where they do. Tide pearls set in the gaps hold them, and three will do the near half.",
+  "target": 3,
+  "deliverMat": "tide_pearl"
+}

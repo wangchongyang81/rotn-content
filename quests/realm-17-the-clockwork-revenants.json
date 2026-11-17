@@ -1,0 +1,10 @@
+{
+  "id": "realm-17-the-clockwork-revenants",
+  "realmId": 17,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "The Revenants in the Tall Doors",
+  "desc": "The doors here are cut tall and the steps deep and Clockwork Revenants have taken to standing in the doorways at the exact height the frames were cut for. Get them out of the frames.",
+  "target": 4,
+  "targetMob": "Clockwork Revenant"
+}

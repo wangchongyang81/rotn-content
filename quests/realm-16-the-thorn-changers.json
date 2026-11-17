@@ -1,0 +1,10 @@
+{
+  "id": "realm-16-the-thorn-changers",
+  "realmId": 16,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "The Thorn-Changers",
+  "desc": "The walls stop at your chest and the lanes are laid for a shorter stride, and Thorn-Changers have taken the low doors and made them lower. Clear a path through.",
+  "target": 4,
+  "targetMob": "Thorn-Changer"
+}

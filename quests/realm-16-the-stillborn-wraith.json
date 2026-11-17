@@ -1,0 +1,10 @@
+{
+  "id": "realm-16-the-stillborn-wraith",
+  "realmId": 16,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "What Waits in the Shallow Steps",
+  "desc": "A Stillborn Wraith stands in the middle of the shallow steps and the wear in the treads goes round it, so nobody has been past in a while. Have it out of the way.",
+  "target": 1,
+  "targetMob": "Stillborn Wraith"
+}

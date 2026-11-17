@@ -1,0 +1,10 @@
+{
+  "id": "realm-17-the-hour-leech",
+  "realmId": 17,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Hour Leech",
+  "desc": "An Hour Leech has fastened to the shallow steps and the wear in the treads has stopped advancing, so the place has stopped being used in the direction it was built for.",
+  "target": 1,
+  "targetMob": "Hour Leech"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "realm-18-the-leech-knight",
+  "realmId": 18,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Knight at the Ladder",
+  "desc": "A Leech-Knight has planted itself at the foot of the inside ladder and the ladder cannot be used while it is there, and the roof is the whole point of the corridor.",
+  "target": 1,
+  "targetMob": "Leech-Knight"
+}

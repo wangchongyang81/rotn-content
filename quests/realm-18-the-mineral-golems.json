@@ -1,0 +1,10 @@
+{
+  "id": "realm-18-the-mineral-golems",
+  "realmId": 18,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "Golems in the Open Corridor",
+  "desc": "The roofs are off and the corridor faces the sky and Mineral Golems have come up the knocked-through wall and stand in the light where the ladders are set. Clear the corridor.",
+  "target": 4,
+  "targetMob": "Mineral Golem"
+}
