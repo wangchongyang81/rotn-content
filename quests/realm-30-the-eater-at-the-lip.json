@@ -1,0 +1,10 @@
+{
+  "id": "realm-30-the-eater-at-the-lip",
+  "realmId": 30,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Eater at the Lip",
+  "desc": "A Dream-Eater has taken the lip of the throat and the fire is the last pledge and it is still burning. Nothing goes in while it holds the lip.",
+  "target": 1,
+  "targetMob": "Dream-Eater"
+}

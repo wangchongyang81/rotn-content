@@ -1,0 +1,10 @@
+{
+  "id": "realm-25-the-leech-on-the-cloth",
+  "realmId": 25,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Leech on the Cloth",
+  "desc": "A Luck-Leech has settled on the nearest cloth and the cloth is the only pledge made here that can still be read. Nothing is promised while it sits.",
+  "target": 1,
+  "targetMob": "Luck-Leech"
+}

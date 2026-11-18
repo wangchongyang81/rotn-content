@@ -1,0 +1,10 @@
+{
+  "id": "realm-29-the-thralls-at-the-hearths",
+  "realmId": 29,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "The Thralls at the Hearths",
+  "desc": "Each hearth is a ring of stone with a swept pit at the centre and Slag Thralls stand in the rings where the fires were. Clear the hearths.",
+  "target": 4,
+  "targetMob": "Slag Thrall"
+}

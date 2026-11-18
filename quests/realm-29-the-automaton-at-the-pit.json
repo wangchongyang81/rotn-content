@@ -1,0 +1,10 @@
+{
+  "id": "realm-29-the-automaton-at-the-pit",
+  "realmId": 29,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Automaton at the Pit",
+  "desc": "A Rogue Automaton has kept one hearth and keeps it wrong, and the hearths are spaced at regular intervals so one being wrong is plain. Set it right by force.",
+  "target": 1,
+  "targetMob": "Rogue Automaton"
+}

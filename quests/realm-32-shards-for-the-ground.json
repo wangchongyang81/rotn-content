@@ -1,0 +1,10 @@
+{
+  "id": "realm-32-shards-for-the-ground",
+  "realmId": 32,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Shards for the Ground",
+  "desc": "The place will not resolve and the ground underfoot is the only thing that stays the same. Two aether shards driven in give the eye one fixed point to come back to.",
+  "target": 2,
+  "deliverMat": "aether_shard"
+}

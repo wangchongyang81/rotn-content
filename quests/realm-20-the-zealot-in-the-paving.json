@@ -1,0 +1,10 @@
+{
+  "id": "realm-20-the-zealot-in-the-paving",
+  "realmId": 20,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Zealot in the Paving",
+  "desc": "A Locust Zealot has set itself on the dark bowl and will not let the ring be walked, and the ring is the whole of the pledge. Move it.",
+  "target": 1,
+  "targetMob": "Locust Zealot"
+}

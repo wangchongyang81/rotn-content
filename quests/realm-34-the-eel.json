@@ -1,0 +1,10 @@
+{
+  "id": "realm-34-the-eel",
+  "realmId": 34,
+  "kind": "fetch",
+  "tier": "D",
+  "name": "Light for the Basin",
+  "desc": "The basin is dark and the eels in it are the only light the haven has after the sun goes. Three lamp eels in the keeper's tank keep the path lit.",
+  "target": 3,
+  "deliverMat": "ingredient:eel"
+}

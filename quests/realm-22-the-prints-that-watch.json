@@ -1,0 +1,10 @@
+{
+  "id": "realm-22-the-prints-that-watch",
+  "realmId": 22,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "The Prints That Watch",
+  "desc": "Every print here goes the same way and none come back, and Suspicion Wisps stand in the reeds where the prints stop. Clear the reeds.",
+  "target": 4,
+  "targetMob": "Suspicion Wisp"
+}

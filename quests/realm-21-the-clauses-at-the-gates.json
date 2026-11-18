@@ -1,0 +1,10 @@
+{
+  "id": "realm-21-the-clauses-at-the-gates",
+  "realmId": 21,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "The Clauses at the Gates",
+  "desc": "The gates all stand open and that is the arrangement, and Clause Fiends have come in through the open ones and stand at the worn benches. Clear the gates.",
+  "target": 4,
+  "targetMob": "Clause Fiend"
+}

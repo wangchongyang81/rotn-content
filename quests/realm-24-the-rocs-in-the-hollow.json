@@ -1,0 +1,10 @@
+{
+  "id": "realm-24-the-rocs-in-the-hollow",
+  "realmId": 24,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "The Rocs in the Hollow",
+  "desc": "There is no through draught and the air stands still and Thunder Rocs have come down into the still air and will not leave it. Clear the hollow.",
+  "target": 4,
+  "targetMob": "Thunder Roc"
+}

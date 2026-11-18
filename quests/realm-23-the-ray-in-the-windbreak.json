@@ -1,0 +1,10 @@
+{
+  "id": "realm-23-the-ray-in-the-windbreak",
+  "realmId": 23,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "The Ray in the Windbreak",
+  "desc": "The windbreaks are curved against the weather and worn thin on the windward face, and Oath-Eater Rays have come in behind them where the stone is thinnest. Clear the breaks.",
+  "target": 4,
+  "targetMob": "Oath-Eater Ray"
+}

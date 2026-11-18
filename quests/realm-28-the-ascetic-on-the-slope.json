@@ -1,0 +1,10 @@
+{
+  "id": "realm-28-the-ascetic-on-the-slope",
+  "realmId": 28,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Ascetic on the Slope",
+  "desc": "A Withered Ascetic sits in the widest seam and has sat there long enough that the heat has gone out of the stone around it. The cracks do not run past while it sits.",
+  "target": 1,
+  "targetMob": "Withered Ascetic"
+}

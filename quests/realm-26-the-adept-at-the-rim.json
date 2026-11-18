@@ -1,0 +1,10 @@
+{
+  "id": "realm-26-the-adept-at-the-rim",
+  "realmId": 26,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Adept at the Rim",
+  "desc": "A Flatterer Adept stands at the rim and has been at the rim long enough that the warmth reads as trust. It is the first warmth in a long while.",
+  "target": 1,
+  "targetMob": "Flatterer Adept"
+}

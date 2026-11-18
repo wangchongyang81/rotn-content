@@ -1,0 +1,10 @@
+{
+  "id": "realm-34-the-rabbit",
+  "realmId": 34,
+  "kind": "fetch",
+  "tier": "D",
+  "name": "Meat for the Pot",
+  "desc": "The pot has been on since morning with nothing in it but roots. Three steppe rabbits from the near meadow and it becomes a meal.",
+  "target": 3,
+  "deliverMat": "ingredient:rabbit"
+}

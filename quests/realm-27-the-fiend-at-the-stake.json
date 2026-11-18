@@ -1,0 +1,10 @@
+{
+  "id": "realm-27-the-fiend-at-the-stake",
+  "realmId": 27,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Fiend at the Stake",
+  "desc": "A Toll-Fiend holds the near stake and the clearing is bounded by them and nothing crosses without paying. The road through is the only road.",
+  "target": 1,
+  "targetMob": "Toll-Fiend"
+}

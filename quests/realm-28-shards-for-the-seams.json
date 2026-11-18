@@ -1,0 +1,10 @@
+{
+  "id": "realm-28-shards-for-the-seams",
+  "realmId": 28,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Shards for the Seams",
+  "desc": "The air rises off the slope and bends the far edge and the seams breathe it back down. Two ember shards set in the worst splits hold the heat where it is.",
+  "target": 2,
+  "deliverMat": "ember_shard"
+}

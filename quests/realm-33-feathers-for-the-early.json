@@ -1,0 +1,10 @@
+{
+  "id": "realm-33-feathers-for-the-early",
+  "realmId": 33,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Feathers for the Early",
+  "desc": "The light arrives before the warmth and the ridge is bare and kept bare, and the early hours here are colder than the height suggests. Three gale feathers strung on the ridge break the wind.",
+  "target": 3,
+  "deliverMat": "gale_feather"
+}

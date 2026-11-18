@@ -1,0 +1,10 @@
+{
+  "id": "realm-31-the-ants-in-the-seats",
+  "realmId": 31,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "The Ants in the Seats",
+  "desc": "The near slope is terraced into shallow seats and the seats are grassed over and worn through in the middle, and Imperial Ants have taken the worn parts. Clear the terraces.",
+  "target": 4,
+  "targetMob": "Imperial Ant"
+}

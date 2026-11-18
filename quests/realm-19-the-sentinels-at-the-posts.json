@@ -1,0 +1,10 @@
+{
+  "id": "realm-19-the-sentinels-at-the-posts",
+  "realmId": 19,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "Sentinels at the Posts",
+  "desc": "The posts here hold the vow and the shadows under them have got longer than the posts, and Oath-Bound Sentinels stand in every one of them. Clear the posts.",
+  "target": 4,
+  "targetMob": "Oath-Bound Sentinel"
+}

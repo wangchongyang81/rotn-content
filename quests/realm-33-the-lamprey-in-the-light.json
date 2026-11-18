@@ -1,0 +1,10 @@
+{
+  "id": "realm-33-the-lamprey-in-the-light",
+  "realmId": 33,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Lamprey in the Light",
+  "desc": "A Leyline Lamprey has come up where the light arrives before the warmth does, and it takes the light and gives nothing back. It is a place for being early and it is not early while the lamprey feeds.",
+  "target": 1,
+  "targetMob": "Leyline Lamprey"
+}

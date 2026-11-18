@@ -1,0 +1,10 @@
+{
+  "id": "realm-33-the-acolytes-on-the-bare-ridge",
+  "realmId": 33,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "The Acolytes on the Bare Ridge",
+  "desc": "Nothing is built here and the bareness has been kept, and Void Acolytes stand about on it as though something had been. Clear the ridge.",
+  "target": 4,
+  "targetMob": "Void Acolyte"
+}

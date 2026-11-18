@@ -1,0 +1,10 @@
+{
+  "id": "realm-23-the-revenant-at-the-lean",
+  "realmId": 23,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Revenant at the Lean",
+  "desc": "A Corsair Revenant has planted itself at the highest break and the whole place leans away from it. The windward face is the only way past.",
+  "target": 1,
+  "targetMob": "Corsair Revenant"
+}

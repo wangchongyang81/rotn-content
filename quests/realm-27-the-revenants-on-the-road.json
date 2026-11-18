@@ -1,0 +1,10 @@
+{
+  "id": "realm-27-the-revenants-on-the-road",
+  "realmId": 27,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "The Revenants on the Road",
+  "desc": "The ground has been fed and the flat is kept clear and Road-Revenants walk it between the stripped stakes. Clear the clearing.",
+  "target": 4,
+  "targetMob": "Road-Revenant"
+}

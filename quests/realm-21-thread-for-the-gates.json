@@ -1,0 +1,10 @@
+{
+  "id": "realm-21-thread-for-the-gates",
+  "realmId": 21,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Thread for the Gates",
+  "desc": "The gates are not worn and the benches are, and the hinges have gone quiet for want of binding. Three lengths of moonthread see to the near gates.",
+  "target": 3,
+  "deliverMat": "moonthread"
+}

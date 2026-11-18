@@ -1,0 +1,10 @@
+{
+  "id": "realm-21-the-bailiff-at-the-bench",
+  "realmId": 21,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Bailiff at the Bench",
+  "desc": "A Bailiff Construct has taken the last bench and reads the contract to nobody and will not be passed. The road in is the only road.",
+  "target": 1,
+  "targetMob": "Bailiff Construct"
+}

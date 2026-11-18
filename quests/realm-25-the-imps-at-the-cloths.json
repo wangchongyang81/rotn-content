@@ -1,0 +1,10 @@
+{
+  "id": "realm-25-the-imps-at-the-cloths",
+  "realmId": 25,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "The Imps at the Cloths",
+  "desc": "Four posts carry the cloths and the cloths are the record, and Cutpurse Imps work the knots where the record is tied. Clear the posts.",
+  "target": 4,
+  "targetMob": "Cutpurse Imp"
+}

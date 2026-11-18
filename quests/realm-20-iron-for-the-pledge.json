@@ -1,0 +1,10 @@
+{
+  "id": "realm-20-iron-for-the-pledge",
+  "realmId": 20,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Iron for the Pledge",
+  "desc": "The bowl is dark stone and the third pledge is kept in full light and the light has been let out of it. Three loads of iron set it right.",
+  "target": 3,
+  "deliverMat": "iron_ore"
+}

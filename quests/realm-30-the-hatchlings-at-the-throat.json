@@ -1,0 +1,10 @@
+{
+  "id": "realm-30-the-hatchlings-at-the-throat",
+  "realmId": 30,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "The Hatchlings at the Throat",
+  "desc": "The throat stands open at the centre of the scorched apron and the stone has gone white with the feeding, and Nightmare Hatchlings come up out of it. Clear the apron.",
+  "target": 4,
+  "targetMob": "Nightmare Hatchling"
+}

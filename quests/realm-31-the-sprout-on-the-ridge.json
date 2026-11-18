@@ -1,0 +1,10 @@
+{
+  "id": "realm-31-the-sprout-on-the-ridge",
+  "realmId": 31,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Sprout on the Ridge",
+  "desc": "A Throne-Sprout has come up on the low ridge where it faces the light, and it is the only thing here trying to be pleasant that has got above the seats. Cut it back.",
+  "target": 1,
+  "targetMob": "Throne-Sprout"
+}

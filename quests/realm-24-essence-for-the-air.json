@@ -1,0 +1,10 @@
+{
+  "id": "realm-24-essence-for-the-air",
+  "realmId": 24,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Essence for the Air",
+  "desc": "The air is thick and warm and tastes of dust and iron and does not move. Three vials of dark essence burned in the hollow move it enough to breathe.",
+  "target": 3,
+  "deliverMat": "dark_essence"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "realm-26-embers-for-the-circle",
+  "realmId": 26,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Embers for the Circle",
+  "desc": "The fire is the first warmth in a long while and it has not been long enough to trust, so it is kept low and fed by hand. Three ember shards see the night through.",
+  "target": 3,
+  "deliverMat": "ember_shard"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "realm-32-the-bloom-that-reads-wrong",
+  "realmId": 32,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Bloom That Reads Wrong",
+  "desc": "A Chimera Bloom sits where a post was and then where a person stood, and it settles when you stop looking. It is the one thing here that resolves wrong on purpose.",
+  "target": 1,
+  "targetMob": "Chimera Bloom"
+}

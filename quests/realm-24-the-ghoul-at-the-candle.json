@@ -1,0 +1,10 @@
+{
+  "id": "realm-24-the-ghoul-at-the-candle",
+  "realmId": 24,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Ghoul at the Candle",
+  "desc": "A Storm-Bound Ghoul has taken the one place where a candle would stand straight up, and it is the only place in the hollow worth standing.",
+  "target": 1,
+  "targetMob": "Storm-Bound Ghoul"
+}

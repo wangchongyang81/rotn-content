@@ -1,0 +1,10 @@
+{
+  "id": "realm-34-the-salt",
+  "realmId": 34,
+  "kind": "fetch",
+  "tier": "D",
+  "name": "Salt for the Table",
+  "desc": "The table is laid for whoever comes back and there is no salt on it. Four measures of ritual salt and the board is worth sitting down to.",
+  "target": 4,
+  "deliverMat": "ingredient:salt"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "realm-31-relics-for-the-seats",
+  "realmId": 31,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Relics for the Seats",
+  "desc": "This is the only place that is trying to be pleasant and the seats are worn through where people sat. Two relics set in the worn parts keep them from going further.",
+  "target": 2,
+  "deliverMat": "holy_relic"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "realm-23-shards-for-the-breaks",
+  "realmId": 23,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Shards for the Breaks",
+  "desc": "Stone has been stacked against the prevailing direction and the stacking is worn through on the weather side. Two aether shards set in the thin faces hold them.",
+  "target": 2,
+  "deliverMat": "aether_shard"
+}

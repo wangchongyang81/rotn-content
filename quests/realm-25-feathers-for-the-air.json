@@ -1,0 +1,10 @@
+{
+  "id": "realm-25-feathers-for-the-air",
+  "realmId": 25,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Feathers for the Air",
+  "desc": "There is no bowl and no ring and whatever is promised here is promised into moving air. Three gale feathers tied to the posts make it read.",
+  "target": 3,
+  "deliverMat": "gale_feather"
+}

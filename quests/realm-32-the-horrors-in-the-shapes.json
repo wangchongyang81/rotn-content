@@ -1,0 +1,10 @@
+{
+  "id": "realm-32-the-horrors-in-the-shapes",
+  "realmId": 32,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "The Horrors in the Shapes",
+  "desc": "Shapes hold for a moment and then read as something else, and Unshaped Horrors are already the something else. The ground underfoot is the only thing that stays, so hold to it and clear them.",
+  "target": 4,
+  "targetMob": "Unshaped Horror"
+}

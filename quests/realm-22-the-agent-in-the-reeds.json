@@ -1,0 +1,10 @@
+{
+  "id": "realm-22-the-agent-in-the-reeds",
+  "realmId": 22,
+  "kind": "bounty",
+  "tier": "C",
+  "name": "The Agent in the Reeds",
+  "desc": "A Sunderer Agent works the far bank and has been at it long enough that the prints near it no longer match. Nothing here is trusted while it works.",
+  "target": 1,
+  "targetMob": "Sunderer Agent"
+}

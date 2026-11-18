@@ -1,0 +1,10 @@
+{
+  "id": "realm-34-the-barley",
+  "realmId": 34,
+  "kind": "fetch",
+  "tier": "D",
+  "name": "Cooking and Bond",
+  "desc": "The terrace beds behind the rest spot have gone to seed for want of turning. Six measures of terrace barley and the kitchen has something to work with again.",
+  "target": 6,
+  "deliverMat": "ingredient:barley"
+}

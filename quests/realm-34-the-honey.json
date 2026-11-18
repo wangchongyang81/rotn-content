@@ -1,0 +1,10 @@
+{
+  "id": "realm-34-the-honey",
+  "realmId": 34,
+  "kind": "fetch",
+  "tier": "D",
+  "name": "Something Sweet",
+  "desc": "The hives by the orchard have gone quiet and the partners ask for honey they can taste. Two jars of lotus honey, and mind the smoke.",
+  "target": 2,
+  "deliverMat": "ingredient:honey"
+}

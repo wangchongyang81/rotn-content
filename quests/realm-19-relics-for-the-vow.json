@@ -1,0 +1,10 @@
+{
+  "id": "realm-19-relics-for-the-vow",
+  "realmId": 19,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Relics for the Vow",
+  "desc": "The vow holds by what was set in the posts and the posts have been emptied. Two holy relics go back into the sockets and the shadows shorten.",
+  "target": 2,
+  "deliverMat": "holy_relic"
+}

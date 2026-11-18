@@ -1,0 +1,10 @@
+{
+  "id": "realm-29-iron-for-the-hearths",
+  "realmId": 29,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Iron for the Hearths",
+  "desc": "People lived here and the living has been taken away and the pits are cold and swept. Three loads of iron put the living back in the rings.",
+  "target": 3,
+  "deliverMat": "iron_ore"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "realm-30-embers-for-the-throat",
+  "realmId": 30,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Embers for the Throat",
+  "desc": "The fire in the throat has been kept fed long enough to whiten the stone, and everything within the apron is cleared to a distance. Three ember shards keep it through the night.",
+  "target": 3,
+  "deliverMat": "ember_shard"
+}

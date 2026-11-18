@@ -1,0 +1,10 @@
+{
+  "id": "realm-20-the-grain-that-walks",
+  "realmId": 20,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "The Grain That Walks",
+  "desc": "The paving is kept and the Grain Golems come up through the kept part of it and stand where the pledges were made. Clear the paving.",
+  "target": 4,
+  "targetMob": "Grain Golem"
+}

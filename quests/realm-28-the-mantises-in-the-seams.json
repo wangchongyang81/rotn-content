@@ -1,0 +1,10 @@
+{
+  "id": "realm-28-the-mantises-in-the-seams",
+  "realmId": 28,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "The Mantises in the Seams",
+  "desc": "The cracks run downhill in long parallel splits and the stone between them is hot enough to feel through a boot, and Ash Mantises work the seams where the heat is. Clear the slope.",
+  "target": 4,
+  "targetMob": "Ash Mantis"
+}

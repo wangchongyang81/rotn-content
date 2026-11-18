@@ -1,0 +1,10 @@
+{
+  "id": "realm-27-stones-for-the-soil",
+  "realmId": 27,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Stones for the Soil",
+  "desc": "The soil is fine and loose and nothing grows in it at all. Three stonehearts turned into the flat give the stakes something to hold.",
+  "target": 3,
+  "deliverMat": "stoneheart"
+}

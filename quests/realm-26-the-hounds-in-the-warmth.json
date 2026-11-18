@@ -1,0 +1,10 @@
+{
+  "id": "realm-26-the-hounds-in-the-warmth",
+  "realmId": 26,
+  "kind": "hunt",
+  "tier": "C",
+  "name": "The Hounds in the Warmth",
+  "desc": "The fire has been kept and the ground is blackened out to the rim and Mirage Hounds have come in to the warmth and lie where the stones were pushed. Clear the circle.",
+  "target": 4,
+  "targetMob": "Mirage Hound"
+}

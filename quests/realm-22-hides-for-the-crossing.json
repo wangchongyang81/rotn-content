@@ -1,0 +1,10 @@
+{
+  "id": "realm-22-hides-for-the-crossing",
+  "realmId": 22,
+  "kind": "fetch",
+  "tier": "C",
+  "name": "Hides for the Crossing",
+  "desc": "The ground keeps every print and the reeds stand in standing water and will not hold a crossing. Three hides laid over the soft places make one.",
+  "target": 3,
+  "deliverMat": "beast_hide"
+}
