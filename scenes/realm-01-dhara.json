@@ -1,0 +1,25 @@
+{
+  "id": "realm-01-dhara",
+  "realmId": 1,
+  "kind": "encounter",
+  "npc": "dhara",
+  "beats": [
+    {
+      "text": "She stands dark against the seam and does not step out of it.",
+      "tone": "tense"
+    },
+    {
+      "text": "The ash ring lies between you. Hers is the print that is the wrong shape.",
+      "tone": "neutral"
+    },
+    {
+      "text": "\"Thirty-one,\" she says, without turning round. \"So you are the thirty-second.\"",
+      "tone": "wry",
+      "speaker": "dhara"
+    },
+    {
+      "text": "She holds a stick of charcoal the length of her hand and waits to see what you do with it.",
+      "tone": "neutral"
+    }
+  ]
+}
