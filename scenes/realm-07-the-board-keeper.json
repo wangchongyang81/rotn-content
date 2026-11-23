@@ -5,7 +5,7 @@
   "npc": "board-keeper",
   "beats": [
     {
-      "text": "A man is chalking on the debt board. He is short enough that the last entries are above his reach and he has to stretch.",
+      "text": "A woman is chalking on the debt board. She is short enough that the last entries are above her reach and she has to stretch.",
       "tone": "neutral"
     },
     {
@@ -14,7 +14,7 @@
       "tone": "wry"
     },
     {
-      "text": "He steps back and reads the board the way you would read a road sign.",
+      "text": "She steps back and reads the board the way you would read a road sign.",
       "tone": "neutral"
     }
   ]

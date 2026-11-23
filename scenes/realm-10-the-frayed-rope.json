@@ -5,7 +5,7 @@
   "npc": "rope-mender",
   "beats": [
     {
-      "text": "A man is on the frayed guy rope with a knife and a coil of new cord, and he has not cut the old knot out.",
+      "text": "A woman is on the frayed guy rope with a knife and a coil of new cord, and she has not cut the old knot out.",
       "tone": "neutral"
     },
     {
@@ -14,7 +14,7 @@
       "tone": "wry"
     },
     {
-      "text": "He ties over the fray rather than through it, and pulls it tight with his foot on the anchor.",
+      "text": "She ties over the fray rather than through it, and pulls it tight with her foot on the anchor.",
       "tone": "neutral"
     }
   ]
